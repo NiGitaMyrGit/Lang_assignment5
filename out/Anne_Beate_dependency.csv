@@ -1,0 +1,397 @@
+Speaker,Text,Token,POS,Dependency Label,Head
+*AN,havde du egentlig øh nået a lave dine feature,havde du egentlig øh nået a lave dine feature,AUX PRON ADV VERB VERB X VERB DET NOUN,aux nsubj advmod ROOT xcomp nmod:poss punct det obl,øh øh øh øh øh feature a feature nået
+*BE,jo  okay,jo   okay,ADV SPACE NUM,advmod dep ROOT,okay jo okay
+*BE,m  faktisk starter med  jeg ligger om aftenen på min seng,m   faktisk starter med   jeg ligger om aftenen på min seng,NOUN SPACE ADJ VERB ADP SPACE PRON VERB ADP NOUN ADP DET NOUN,nsubj dep amod ROOT mark dep nsubj advcl case obl case det obl,starter m starter starter ligger med ligger starter aftenen ligger seng seng ligger
+*BE,å så tænker jeg hva fanden jeg skal lave den her øh feature om,å så tænker jeg hva fanden jeg skal lave den her øh feature om,ADP ADV VERB PRON VERB NOUN PRON AUX VERB DET ADV NOUN NOUN ADP,obj advmod xcomp nsubj xcomp obj nsubj aux ROOT det advmod amod obj dep,lave tænker lave tænker lave lave lave lave lave feature øh feature lave lave
+*BE,å så lige pludselig så  kommer det bare  som altså,å så lige pludselig så   kommer det bare   som altså,ADP ADV ADV ADV ADV SPACE VERB PRON ADV SPACE ADP ADV,dep advmod advmod advmod advmod dep ROOT nsubj advmod dep ROOT punct,kommer pludselig pludselig så kommer så kommer kommer kommer bare som som
+slam  skrald  skal lave en feature om skrald,,,,,
+*BE,øhm  å så ringer jeg dagen efter til øh  hva,øhm   å så ringer jeg dagen efter til øh   hva,ADV SPACE ADP ADV VERB PRON NOUN ADP ADP NOUN SPACE VERB,advmod dep case advmod ROOT nsubj obj compound:prt case obl dep nmod,å øhm ringer ringer ringer ringer ringer ringer øh ringer øh øh
+hedder det Odense  Odense renovering  nej ikke,,,,,
+renovering  Odense øhm,,,,,
+*AN,skrald service,skrald service,PROPN NOUN,ROOT obj,skrald skrald
+*BE,renovation,renovation,NOUN,ROOT,renovation
+*BE,hedder det ikke det,hedder det ikke det,VERB PRON ADV NOUN,ROOT nsubj advmod ROOT,hedder hedder hedder det
+*BE,renovationsmedarbejder  jo,renovationsmedarbejder   jo,VERB SPACE ADV,ROOT dep advmod,renovationsmedarbejder renovationsmedarbejder renovationsmedarbejder
+*AN,så meget skrald har jeg slet ikke,så meget skrald har jeg slet ikke,ADV ADJ NOUN AUX PRON ADV ADV,advmod ROOT obl aux nsubj advmod advmod,meget meget meget meget meget ikke meget
+*BE,nej okay,nej okay,NOUN NUM,ROOT nmod,nej nej
+*BE,Øh Odense renovationsselskab,Øh Odense renovationsselskab,NOUN PROPN NOUN,ROOT list nmod,Øh Øh Øh
+*AN,hja,hja,X,ROOT,hja
+*BE,å så får jeg deres kommunikationschef øh i røret å siger så men,å så får jeg deres kommunikationschef øh i røret å siger så men,ADP ADV VERB PRON DET NOUN NOUN ADP NOUN ADP VERB ADV CCONJ,obj advmod ROOT nsubj det amod obj case nmod nsubj ROOT advmod cc,får får får får øh øh får røret øh siger siger siger siger
+hva hva sker der lige på området med skrald har du ikke nogen,,,,,
+god historie,,,,,
+*BE,øh å så snakker han  om hid å did å,øh å så snakker han   om hid å did å,NOUN ADP ADV VERB PRON SPACE ADP NOUN ADP NOUN ADP,dep dep advmod ROOT nsubj dep case dep case nmod dep,snakker snakker snakker snakker snakker han hid snakker did hid snakker
+*BE,så var jeg nødt til a afbryde ham å sige jamen kan jeg ikke,så var jeg nødt til a afbryde ham å sige jamen kan jeg ikke,ADV AUX PRON ADJ ADP X NOUN PRON ADP VERB CCONJ AUX PRON ADV,advmod cop nsubj ROOT case nmod:poss obl obj case amod obl aux nsubj advmod,nødt nødt nødt nødt afbryde afbryde nødt afbryde jamen jamen afbryde nødt nødt nødt
+komme med ud på sådan en skralde  bil å køre,,,,,
+*BE,å så siger han jo jo så er det klokken halv syv du skal være,å så siger han jo jo så er det klokken halv syv du skal være,ADP ADV VERB PRON ADV ADV ADV AUX PRON NOUN ADJ NUM PRON AUX AUX,obj advmod ROOT nsubj advmod advmod advmod cop nsubj dep advmod nummod nsubj aux ROOT,siger siger siger siger siger siger klokken klokken klokken siger klokken klokken siger være være
+her så,,,,,
+*BE,så jeg kan måske komme ud på en genbrugsstation,så jeg kan måske komme ud på en genbrugsstation,SCONJ PRON AUX ADV VERB ADV ADP DET NOUN,mark nsubj aux advmod ROOT advmod:lmod case det obl,komme komme komme komme komme komme genbrugsstation genbrugsstation ud
+*AN,ehh  hhe hhe,ehh   hhe hhe,PROPN SPACE ADV NOUN,ROOT dep advmod xcomp,ehh ehh ehh ehh
+hhe,,,,,
+*BE,hhh å være i stedet for,hhh å være i stedet for,PROPN ADP VERB ADP NOUN ADP,ROOT advmod fixed case nmod ROOT,hhh hhh å stedet hhh for
+*BE,jo  jamen der var faktisk en genbrugsstation hvor der,jo   jamen der var faktisk en genbrugsstation hvor der,ADV SPACE CCONJ ADV VERB ADV DET NOUN ADV ADV,advmod dep cc expl ROOT advmod det obj advmod expl,var jo var var var var genbrugsstation var genbrugsstation var
+arbejdede to kvinder,,,,,
+*BE,å så kunne jeg så lave en feature om øh  sådan nogen sådan,å så kunne jeg så lave en feature om øh   sådan nogen sådan,ADP ADV AUX PRON ADV VERB DET NOUN ADP NOUN SPACE ADJ DET ADV,nsubj advmod aux nsubj advmod ROOT det obj case nmod dep amod det advmod,lave lave lave lave lave lave feature lave øh feature øh sådan sådan lave
+noget blå mænd  så noget,,,,,
+*AN,kvinder eller øh         ja,kvinder eller øh          ja,NOUN CCONJ NOUN SPACE NOUN,ROOT cc conj dep ROOT,kvinder øh kvinder øh ja
+*BE,kvindelige skraldemænd,kvindelige skraldemænd,ADJ NOUN,amod ROOT,skraldemænd skraldemænd
+*BE,kvindelige skraldemænd ja,kvindelige skraldemænd ja,ADJ NOUN INTJ,amod nsubj ROOT,skraldemænd ja ja
+*BE,øh det fik jeg så lov til,øh det fik jeg så lov til,VERB PRON VERB PRON ADV NOUN ADP,obj obj ROOT nsubj advmod advmod case,fik øh fik fik fik fik fik
+*BE,men så øh  reagerede han så å sagde at øh de var ikke på,men så øh   reagerede han så å sagde at øh de var ikke på,CCONJ ADV VERB SPACE VERB PRON ADV PRON VERB PART VERB PRON VERB ADV ADP,cc advmod ROOT dep ROOT nsubj advmod nsubj advcl mark obj obj dep advmod ROOT,øh øh øh øh reagerede reagerede reagerede sagde reagerede øh sagde øh reagerede var på
+arbejde,,,,,
+*BE,den søndag hvor jeg ville gøre det,den søndag hvor jeg ville gøre det,DET NOUN ADV PRON AUX VERB PRON,det ROOT advmod nsubj aux acl:relcl obj,søndag søndag gøre gøre gøre søndag gøre
+*BE,de var først på arbejde på næste søndag,de var først på arbejde på næste søndag,PRON VERB ADV ADP NOUN ADP ADJ NOUN,nsubj ROOT advmod case obl case amod nmod,var var var arbejde var søndag søndag arbejde
+å den skulle afleveres tirsdag så  derfor så har jeg ikke,,,,,
+fået den lavet,,,,,
+*AN,kunne du ikke få rykket øh  din aflevering,kunne du ikke få rykket øh   din aflevering,AUX PRON ADV VERB NOUN NOUN SPACE DET NOUN,aux nsubj advmod ROOT obj xcomp dep det conj,få få få få få få øh aflevering øh
+*BE,host  m m,host   m m,NOUN SPACE X X,ROOT dep nmod nmod,host host host host
+*BE,Jesper øh Stollemann han skrev til Bent Muk sådan et lang lang,Jesper øh Stollemann han skrev til Bent Muk sådan et lang lang,PROPN PROPN PROPN PRON VERB ADP PROPN PROPN ADJ DET NOUN ADJ,nsubj flat flat nsubj ROOT case obl flat amod det obl amod,skrev Jesper Jesper skrev skrev Bent skrev Bent lang lang skrev lang
+med- altså en eller andet sådan sindsyg  fed god undskyldning han,,,,,
+virkelig sådan havde brugt tid på at konstruere,,,,,
+*BE,han fik bare  sådan no way der ikke nogen der får øh,han fik bare   sådan no way der ikke nogen der får øh,PRON VERB ADV SPACE ADJ PROPN PROPN ADV ADV PRON ADV VERB NOUN,nsubj ROOT advmod dep amod obj flat dep advmod obj nsubj acl:relcl xcomp,fik fik fik bare no fik no no no fik får nogen fik
+dispensation,,,,,
+*AN,så nu har du bare ikke afleveret noget,så nu har du bare ikke afleveret noget,ADV ADV AUX PRON ADV ADV VERB PRON,advmod advmod aux nsubj advmod advmod ROOT punct,nu afleveret afleveret afleveret afleveret afleveret afleveret afleveret
+*BE,jo jo men jeg skal bare aflevere den senere men jeg får ikke,jo jo men jeg skal bare aflevere den senere men jeg får ikke,ADJ ADV CCONJ PRON AUX ADV VERB DET NOUN CCONJ PRON VERB ADV,amod ROOT cc nsubj aux advmod conj det obj cc nsubj conj advmod,jo jo aflevere aflevere aflevere aflevere jo senere aflevere får får jo får
+feedback på den nu skal jeg bare lave den uden at jeg  får,,,,,
+noget feedback på den,,,,,
+*BE,jeg skal aflevere den for at komme til eksamen,jeg skal aflevere den for at komme til eksamen,PRON ADJ VERB PRON ADP PART VERB ADP NOUN,nsubj ROOT xcomp obj mark mark advcl case obl,skal skal skal aflevere komme komme skal eksamen komme
+*AN,det er en obligatorisk en,det er en obligatorisk en,PRON AUX DET ADJ DET,ROOT nsubj ROOT nummod punct,det det en en en
+*BE,host m,host m,NOUN NOUN,ROOT ROOT,host m
+*AN,ej øv,ej øv,ADV ADV,ROOT advmod,ej ej
+*AN,nåmen laver du så om de der skralde bøv skraldekvinder,nåmen laver du så om de der skralde bøv skraldekvinder,NOUN VERB PRON ADV SCONJ DET ADV ADJ NOUN X,obj ROOT nsubj advmod mark nsubj dep amod obl nmod,laver laver laver laver bøv bøv skralde bøv laver bøv
+*BE,jah det ved jeg ikke,jah det ved jeg ikke,VERB PRON VERB PRON ADV,ROOT obj punct nsubj advmod,jah ved jah ved ved
+*BE,det kan også være jeg bare  laver et eller andet interview,det kan også være jeg bare   laver et eller andet interview,PRON AUX ADV AUX PRON ADV SPACE VERB DET CCONJ PRON NOUN,nsubj aux advmod cop nsubj advmod dep ROOT dep dep ROOT conj,laver laver laver laver laver laver bare laver andet andet andet andet
+med nogen,,,,,
+*BE,jeg kan interviewe dig,jeg kan interviewe dig,PRON AUX VERB PRON,nsubj aux ROOT obj,interviewe interviewe interviewe interviewe
+*AN,ja  jeg har enormt mange spændende ting der sker i mit liv,ja   jeg har enormt mange spændende ting der sker i mit liv,PROPN SPACE PRON VERB ADV ADJ ADJ NOUN ADV VERB ADP DET NOUN,ROOT dep nsubj list advmod amod amod obl nsubj advcl case det obl,ja ja har ja har ting ting enormt sker enormt liv liv sker
+lige nu  hhhe,,,,,
+*BE,ehh mhm nhi hi  host,ehh mhm nhi hi   host,VERB PROPN NOUN ADP SPACE NOUN,ROOT amod obj case dep nmod,ehh nhi ehh host hi ehh
+*AN,,,,,
+*AN,næh  det ved jeg ikke hva jeg skal snakke om,næh   det ved jeg ikke hva jeg skal snakke om,INTJ SPACE PRON VERB PRON ADV VERB PRON AUX VERB ADP,ROOT dep obj conj nsubj advmod conj nsubj aux acl:relcl punct,næh næh ved næh ved ved ved snakke snakke hva næh
+*BE,,,,,
+*BE,hhe       hhhh      hhhh,hhe        hhhh       hhhh,ADJ SPACE NOUN SPACE NOUN,ROOT dep punct dep nmod,hhe hhe hhe hhhh hhhh
+*AN,det er hårdt at være kvinde  i dagens Danmark,det er hårdt at være kvinde   i dagens Danmark,PRON AUX ADJ PART AUX NOUN SPACE ADP NOUN PROPN,nsubj cop ROOT mark cop dep dep case nmod:poss obl,hårdt hårdt hårdt kvinde kvinde hårdt kvinde Danmark Danmark kvinde
+*BE,ne      hehe he,ne       hehe he,ADV SPACE NOUN X,advmod dep ROOT nmod,hehe ne hehe hehe
+*BE,ja,ja,INTJ,ROOT,ja
+*AN,nå men det var da helt vildt ærgeligt,nå men det var da helt vildt ærgeligt,VERB CCONJ PRON AUX ADV ADV NOUN ADJ,ROOT cc nsubj cop advmod advmod obl conj,nå ærgeligt ærgeligt ærgeligt ærgeligt vildt ærgeligt nå
+*BE,HALLO HVA SKETE DER egentli- okay,HALLO HVA SKETE DER egentli- okay,ADJ NOUN VERB PRON X ADJ,mark nsubj ROOT nsubj ROOT ROOT,SKETE HALLO SKETE SKETE egentli- okay
+*BE,hva skete der egentlig for at øh  du blev væk fra mig,hva skete der egentlig for at øh   du blev væk fra mig,X VERB ADV ADV ADP PART VERB SPACE PRON AUX NOUN ADP PRON,aux ROOT expl advmod mark mark advcl dep nsubj cop obl case nmod,skete skete skete skete øh øh skete øh væk væk øh mig væk
+i øh  fredags,,,,,
+*BE,lørdags,lørdags,NOUN,ROOT,lørdags
+*AN,nej hva sker der for at du skred,nej hva sker der for at du skred,NOUN X VERB ADV ADP SCONJ PRON NOUN,dep aux ROOT expl mark mark nsubj dep,sker sker sker sker skred skred skred sker
+*AN,å tog hjem til  din  du tog hjem med dine venner,å tog hjem til   din   du tog hjem med dine venner,ADP VERB ADV ADP SPACE DET SPACE PRON VERB ADV NOUN DET NOUN,nsubj ROOT advmod:lmod case dep det dep nsubj acl:relcl advmod:lmod iobj det obl,tog tog tog venner til venner din tog din tog tog venner hjem
+*AN,å ville have jeg skulle komme,å ville have jeg skulle komme,PRON AUX VERB PRON AUX VERB,nsubj aux aux nsubj aux ROOT,komme komme komme komme komme komme
+*AN,å så tager du hen til dine karatevenner,å så tager du hen til dine karatevenner,ADP ADV VERB PRON ADV ADP DET NOUN,mark advmod ROOT nsubj advmod:lmod case det obl,tager tager tager tager tager karatevenner karatevenner hen
+*AN,å så tager i på Luux  uden at sige det til mig,å så tager i på Luux   uden at sige det til mig,ADP ADV VERB ADV ADP PROPN SPACE ADP PART VERB PRON ADP NOUN,nsubj advmod ROOT compound:prt case obl dep mark mark advcl obj case obl,tager tager tager tager Luux i Luux sige sige tager sige mig sige
+*BE,det var da ikke sådan det foregik,det var da ikke sådan det foregik,PRON AUX ADV ADV ADJ PRON VERB,nsubj cop advmod advmod amod nsubj ROOT,foregik foregik foregik foregik foregik foregik foregik
+*AN,jo  prøv å hør sådan her foreg- nu skal jeg fortælle,jo   prøv å hør sådan her foreg- nu skal jeg fortælle,ADV SPACE VERB ADP NOUN ADV ADV X ADV AUX PRON VERB,advmod dep ROOT nsubj fixed advmod advmod obl advmod aux nsubj xcomp,prøv jo prøv prøv å prøv sådan sådan fortælle fortælle fortælle prøv
+*BE,prøv ogå hør her,prøv ogå hør her,VERB DET NOUN ADV,ROOT amod obj advmod,prøv hør prøv prøv
+*AN,dig hvordan det foregik,dig hvordan det foregik,PRON ADV PRON VERB,ROOT mark nsubj acl:relcl,dig foregik foregik dig
+*AN,du tog hjem å sagde så kom hjem til mig så sidder vi å drikker,du tog hjem å sagde så kom hjem til mig så sidder vi å drikker,PROPN VERB ADV ADP VERB NOUN VERB ADV ADP PRON ADV VERB PRON ADP VERB,nsubj ROOT advmod:lmod obl:tmod advmod conj advmod advmod:lmod case obl advmod conj nsubj obl advmod,tog tog tog tog tog sagde tog kom mig hjem sidder tog sidder sidder sidder
+der,,,,,
+*AN,så ringer jeg til dig,så ringer jeg til dig,ADV VERB PRON VERB PRON,advmod ROOT nsubj xcomp obj,ringer ringer ringer ringer til
+*AN,Beate skal jeg komme hjem til dig,Beate skal jeg komme hjem til dig,PROPN AUX PRON VERB ADV ADP PRON,ROOT aux nsubj ROOT advmod:lmod case obl,Beate komme komme komme komme dig hjem
+*AN,nej vi er de er er allesammen gået,nej vi er de er er allesammen gået,INTJ PRON AUX PRON AUX AUX X VERB,dep nsubj aux nsubj aux aux advmod ROOT,gået gået gået gået gået gået gået gået
+*AN,så jeg tager ned til mine senpaier,så jeg tager ned til mine senpaier,SCONJ PRON VERB ADV ADP DET NOUN,mark nsubj ROOT advmod:lmod case det obl,tager tager tager tager senpaier senpaier ned
+*AN,og så tænkte jeg okay,og så tænkte jeg okay,CCONJ ADV VERB PRON ADJ,cc advmod ROOT nsubj advmod,tænkte tænkte tænkte tænkte tænkte
+*AN,h så du skal stadig komme Anne,h så du skal stadig komme Anne,X VERB PRON AUX ADV VERB PROPN,advmod advmod nsubj aux advmod ROOT obj,komme komme komme komme komme komme komme
+*AN,okay det er fint jeg skal bare have noget at spise å så,okay det er fint jeg skal bare have noget at spise å så,NUM PRON AUX ADJ PRON AUX VERB VERB PRON PART VERB ADP ADV,ROOT nsubj cop punct nsubj aux acl:relcl xcomp obj mark obj punct advmod,okay fint fint okay bare bare det bare spise spise have spise fint
+*AN,h hva  siger til dig,h hva   siger til dig,X X SPACE VERB ADP PRON,advmod nsubj dep ROOT case obl,siger siger hva siger dig siger
+*AN,h i kan bare gå derned det er helt i orden,h i kan bare gå derned det er helt i orden,NOUN PRON AUX VERB VERB NOUN PRON VERB PRON ADP NOUN,nsubj advmod aux xcomp ROOT advmod obj advmod obl case obl,gå gå gå gå gå gå gå gå er orden er
+*AN,men bare lige ring hvis i går,men bare lige ring hvis i går,CCONJ ADV ADV NOUN SCONJ ADP PROPN,cc advmod advmod ROOT advmod case nmod,ring ring ring ring ring går ring
+*AN,fordi jeg gider ikke gå ned på Lux alene,fordi jeg gider ikke gå ned på Lux alene,SCONJ PRON AUX ADV VERB ADV ADP PROPN NUM,mark nsubj aux advmod ROOT advmod:lmod case obl punct,gå gå gå gå gå gå Lux ned gå
+*AN,h å så,h å så,X ADP ADV,ROOT ROOT ROOT,h å så
+*AN,så siger du nejnej jeg er stadig bare skynd dig,så siger du nejnej jeg er stadig bare skynd dig,ADV VERB PRON NOUN PRON AUX ADV ADV VERB PRON,advmod ROOT nsubj obj nsubj cop advmod advmod advmod obj,siger siger siger siger skynd skynd skynd skynd siger skynd
+*AN,h å så  gør jeg mig klar,h å så   gør jeg mig klar,X ADP ADV SPACE VERB PRON PRON ADJ,dep dep advmod dep ROOT nsubj obj amod,gør gør gør så gør gør gør gør
+*AN,ser  lidt bedre ud end jeg gjorde hehehe før,ser   lidt bedre ud end jeg gjorde hehehe før,VERB SPACE ADV ADJ ADV ADP PRON VERB ADV SCONJ,ROOT dep advmod amod advmod mark nsubj advmod obj advmod,ser ser bedre ser ser gjorde gjorde ser gjorde gjorde
+*BE,hhn hhn hhn,hhn hhn hhn,VERB NOUN X,nsubj advmod ROOT,hhn hhn hhn
+*BE,fik lige gjort mig klar,fik lige gjort mig klar,VERB ADV VERB PRON ADJ,ROOT advmod xcomp obj amod,fik gjort fik gjort gjort
+*BE,å så  ringer jeg til dig å så råber du bare ∇vi,å så   ringer jeg til dig å så råber du bare ∇vi,ADP PROPN SPACE VERB PRON ADP PRON ADP ADV VERB PRON ADV X,case obl dep ROOT nsubj case obl case advmod obl nsubj advmod dep,så ringer så ringer ringer dig ringer råber råber ringer råber råber råber
+tager på Luux∇,,,,,
+*BE,host,host,NOUN,ROOT,host
+*BE,jeg stod inde,jeg stod inde,PRON VERB ADV,nsubj ROOT advmod,stod stod stod
+*BE,jeg stod inde ved jakkerne jeg var lige lagt min jakke,jeg stod inde ved jakkerne jeg var lige lagt min jakke,PRON VERB ADV ADP NOUN PRON AUX ADV VERB DET X,nsubj ROOT advmod:lmod case obl nsubj aux advmod ccomp det obj,stod stod stod jakkerne inde lagt lagt lagt stod jakke lagt
+*BE,å så ringer du å jeg kunne overhovedet ikke høre hva du siger,å så ringer du å jeg kunne overhovedet ikke høre hva du siger,ADP ADV VERB PRON PRON PRON AUX NOUN ADV VERB X PRON VERB,case advmod ROOT nsubj compound:prt nsubj aux nsubj advmod acl:relcl obj nsubj conj,ringer ringer ringer ringer ringer høre høre høre høre å høre siger ringer
+*BE,å så siger du vi er på Lux å så siger du ja,å så siger du vi er på Lux å så siger du ja,ADP ADV VERB PRON PRON VERB ADP PROPN PRON ADV VERB PRON INTJ,obj advmod ROOT nsubj nsubj ccomp case obl advmod advmod conj nsubj obj,siger siger siger siger er siger Lux er er siger siger siger siger
+*BE,øh prøv lige å komme å hent mig,øh prøv lige å komme å hent mig,NOUN VERB ADV ADP VERB ADP PROPN PRON,nsubj ROOT advmod case obl case nmod nsubj,prøv prøv komme lige prøv hent komme prøv
+*AN,nej det var ikke der jeg sagde,nej det var ikke der jeg sagde,INTJ PRON AUX ADV ADV PRON VERB,ROOT nsubj cop advmod expl nsubj acl:relcl,nej ikke ikke nej ikke sagde nej
+*BE,,,,,
+*AN,Ej nå jeg troede i var jeg troede i var lige ved siden af mig,Ej nå jeg troede i var jeg troede i var lige ved siden af mig,NOUN VERB PRON VERB ADV AUX PRON VERB ADV AUX ADV ADP NOUN ADP PRON,nsubj ccomp nsubj conj advmod cop nsubj ROOT advmod advmod advmod case obl case nmod,nå troede troede nå troede troede troede troede troede troede siden lige var mig siden
+jeg troede i var lige herovre,,,,,
+*BE,ja  å så sagde jeg nej men vi er der vi er ikke lige på Luux,ja   å så sagde jeg nej men vi er der vi er ikke lige på Luux,INTJ SPACE ADP ADV VERB PRON NOUN CCONJ PRON VERB ADV PRON AUX ADV ADV ADP PROPN,obl dep case advmod ROOT nsubj obj cc nsubj conj expl nsubj cop advmod advmod case dep,sagde ja så sagde sagde sagde sagde er er sagde er lige lige lige er lige er
+men der er jo ikke særlig langt det er jo det samme jo,,,,,
+*BE,å så,å så,ADP ADV,ROOT advmod,å å
+*AN,ja men jeg gider da ikke være alene heller,ja men jeg gider da ikke være alene heller,INTJ CCONJ PRON VERB ADV ADV AUX ADV ADV,ROOT cc conj conj advmod advmod cop advmod ROOT,ja jeg ja jeg alene alene alene jeg heller
+*BE,nejnej  nejnej,nejnej   nejnej,NOUN SPACE CCONJ,ROOT dep punct,nejnej nejnej nejnej
+*AN,så ligner jeg sådan en før-,så ligner jeg sådan en før-,ADV VERB PRON ADV DET X,advmod ROOT nsubj obj det dep,ligner ligner ligner ligner før- ligner
+*AN,for det første så er det sådan et popsted som hh man ikke måske,for det første så er det sådan et popsted som hh man ikke måske,ADP DET ADJ ADV AUX PRON ADJ DET NOUN ADP X PRON ADV ADV,case det amod advmod cop nsubj amod det ROOT case dep nsubj advmod advmod,første første popsted popsted popsted popsted popsted popsted popsted hh popsted hh hh popsted
+ville tage hen lige meget hvad,,,,,
+*AN,e- men noget andet er jeg vil gerne tage derhen med dig men å kom,e- men noget andet er jeg vil gerne tage derhen med dig men å kom,PROPN CCONJ PRON PRON AUX PRON AUX ADV VERB NOUN ADP PRON CCONJ ADP VERB,ROOT cc det obj aux nsubj aux advmod ROOT advmod:lmod case obl cc nsubj conj,e- tage andet tage tage tage tage tage tage tage dig tage kom kom tage
+∇alene∇,,,,,
+*AN,hen til en masse piger der kun har be håer på,hen til en masse piger der kun har be håer på,ADV ADP DET NOUN NOUN ADV ADV VERB X NOUN ADP,ROOT case det obl nmod nsubj advmod aux nummod obj punct,hen masse masse hen masse har har masse håer har hen
+*AN,så ville jeg virkelig føle mig alt for påklædt å taberagtig,så ville jeg virkelig føle mig alt for påklædt å taberagtig,ADV AUX PRON ADV VERB PRON ADV ADV NOUN ADP X,advmod aux nsubj advmod ROOT iobj advmod advmod amod case obl,føle føle føle føle føle føle for påklædt føle taberagtig føle
+hvis jeg kom alene på  Luux,,,,,
+*BE,mhm ∙mf,mhm ∙mf,NOUN NOUN,ROOT punct,mhm mhm
+*BE,nå okay men altså så ringer du å jeg sagde rigtig mange gange til,nå okay men altså så ringer du å jeg sagde rigtig mange gange til,VERB ADJ CCONJ ADV ADV VERB PRON ADP PRON VERB ADV ADJ NOUN ADP,acl:relcl ROOT cc dep advmod conj nsubj mark nsubj advcl advmod amod obl mark,okay okay ringer men ringer okay ringer sagde sagde ringer sagde gange sagde sagde
+dig at du skulle komme,,,,,
+*BE,på Luux å det ville du ikke,på Luux å det ville du ikke,ADP NUM ADP PRON AUX PRON ADV,case ROOT case nmod ROOT nsubj advmod,Luux Luux det Luux ville ville ville
+*BE,å  ja,å   ja,ADP SPACE PROPN,case dep ROOT,ja å ja
+*AN,så faldt jeg i søvn,så faldt jeg i søvn,ADV VERB PRON ADP NOUN,advmod ROOT nsubj case obl,faldt faldt faldt søvn faldt
+*BE,gjorde du,gjorde du,VERB PRON,ROOT nsubj,gjorde gjorde
+*BE,nå okay for jeg troede nemlig jeg tænkte at jeg  øh var helt,nå okay for jeg troede nemlig jeg tænkte at jeg   øh var helt,VERB ADJ ADP PRON VERB ADV PRON VERB SCONJ SYM SPACE NOUN AUX ADV,ROOT obj case nsubj advcl advmod nsubj obj ROOT dep dep conj ROOT advmod,nå nå jeg troede nå troede tænkte troede at at jeg jeg var var
+vildt led nu fordi at så glemte jeg h ha,,,,,
+*AN,hh,hh,NOUN,ROOT,hh
+*BE,så glemte jeg at  du havde haft ringet fordi at jeg var ved at,så glemte jeg at   du havde haft ringet fordi at jeg var ved at,ADV VERB PRON PART SPACE PRON AUX VERB VERB SCONJ SCONJ PRON VERB ADP PART,advmod ROOT nsubj mark dep nsubj aux ccomp xcomp mark mark nsubj obj mark mark,glemte glemte glemte haft at haft haft glemte haft ringet var var ringet haft ved
+være sådan rimlig vissen,,,,,
+*BE,h så øh  å så t-kiggede jeg på min telefon senere å så havde,h så øh   å så t-kiggede jeg på min telefon senere å så havde,X ADV VERB SPACE ADP ADV VERB PRON ADP DET NOUN ADV ADP ADV VERB,case advmod ROOT dep obj advmod dep nsubj case det obl:tmod advmod mark advmod advcl,øh øh øh øh t-kiggede t-kiggede øh t-kiggede telefon telefon senere t-kiggede havde havde t-kiggede
+du skreven en besked med kom ned til Magasin,,,,,
+*AN,ehe å der stod jeg bare hele natten,ehe å der stod jeg bare hele natten,VERB ADP ADV VERB PRON ADV ADJ NOUN,ROOT flat expl ROOT nsubj advmod amod obl,ehe ehe stod stod stod stod natten stod
+*BE,NEJ NEJ  det vidste jeg,NEJ NEJ   det vidste jeg,NOUN INTJ SPACE PRON VERB PRON,ROOT ROOT dep obj conj nsubj,NEJ NEJ NEJ vidste NEJ vidste
+godt du ikke gjorde men så tænkte jeg bare  nå okay så er hun bare,,,,,
+vildt sur nu fordi at øh det er jeg jo ikke,,,,,
+*BE,men jeg ville jo heller ikke x da heller ikke gå ned til Magasin,men jeg ville jo heller ikke x da heller ikke gå ned til Magasin,CCONJ PRON AUX ADV ADV ADV NOUN ADV ADV ADV VERB ADV ADP PROPN,cc nsubj aux advmod advmod advmod punct advmod advmod advmod ROOT advmod:lmod case obl,ville ville gå ville ikke ville ville gå ikke gå gå gå Magasin ned
+og hente dig,,,,,
+*AN,,,,,
+%com	AN rømmer sig,,,,,
+*AN,det ligger squ da lige ved siden af Magasin,det ligger squ da lige ved siden af Magasin,PRON VERB NOUN ADV ADV ADP NOUN ADP PROPN,nsubj ROOT obl advmod advmod case obl case nmod,ligger ligger ligger ligger siden lige ligger Magasin siden
+*BE,ja ja  men altså der er jo s- k- ø- kunne du ikke høre hva jeg,ja ja   men altså der er jo s- k- ø- kunne du ikke høre hva jeg,NOUN X SPACE CCONJ ADV ADV VERB ADV PROPN PROPN NOUN AUX PRON ADV VERB X PRON,dep ROOT dep cc mark expl conj advmod obj flat nmod aux nsubj advmod conj ccomp ROOT,ja ja ja er er er ja er er s- s- høre høre høre er høre jeg
+sagde i telefonen,,,,,
+*AN,x at du ikke ville gå hen på Magasin,x at du ikke ville gå hen på Magasin,ADP SCONJ PRON ADV AUX VERB ADV ADP PROPN,mark mark nsubj advmod aux ROOT advmod:lmod case obl,gå gå gå gå gå gå gå Magasin hen
+*BE,ja jeg sagde prøv,ja jeg sagde prøv,PROPN PRON VERB VERB,ROOT nsubj ROOT xcomp,ja sagde sagde sagde
+og hør jeg har lige jeg har lige snydt mig ind  jeg har,,,,,
+lige sprunget over køen altså jeg er herinde,,,,,
+*AN,det sagde du altså ikke,det sagde du altså ikke,PRON VERB PRON ADV ADV,obj ROOT nsubj advmod advmod,sagde sagde sagde sagde sagde
+*BE,jO,jO,X,ROOT,jO
+*AN,nå oka-  men det er også lige meget for så faldt jeg i søvn,nå oka-   men det er også lige meget for så faldt jeg i søvn,VERB NOUN SPACE CCONJ PRON AUX ADV ADV ADJ ADP ADV VERB PRON ADP NOUN,ROOT obj dep cc nsubj cop advmod advmod conj dep advmod conj nsubj case obl,nå nå oka- meget meget meget meget meget oka- oka- faldt nå faldt søvn faldt
+*AN,så øh,så øh,ADV VERB,advmod ROOT,øh øh
+*AN,nej så det gjorde jeg faktisk ikke så ringede jeg til Gitte å til,nej så det gjorde jeg faktisk ikke så ringede jeg til Gitte å til,X SCONJ PRON VERB PRON ADV ADV ADV VERB PRON ADP PROPN ADV ADP,punct mark obj ROOT nsubj advmod advmod advmod conj nsubj case obl flat ROOT,gjorde gjorde gjorde gjorde gjorde gjorde gjorde ringede gjorde ringede Gitte ringede Gitte til
+Sara å til Lene,,,,,
+*AN,å til Malene,å til Malene,ADV ADP PROPN,ROOT case nmod,å Malene å
+*AN,å til alle h for at høre om de ville med mig i- ej hvor,å til alle h for at høre om de ville med mig i- ej hvor,ADV ADP ADJ X ADP PART VERB SCONJ PRON AUX ADP PRON NOUN ADV ADV,ROOT case amod nmod mark mark advcl mark nsubj obj case obl xcomp advmod advmod,å h h å høre høre h ville ville høre mig ville ville i- ej
+nederen,,,,,
+*BE,vil i med på Luux  he he ha ha,vil i med på Luux   he he ha ha,AUX ADV ADV ADP PROPN SPACE X X NUM X,aux case case case obl dep flat ROOT nmod ROOT,he he he Luux med Luux Luux he he ha
+*AN,nej det lyder bare som om,nej det lyder bare som om,INTJ PRON VERB ADV ADV ADP,cc nsubj ROOT advmod case fixed,lyder lyder lyder lyder lyder som
+der ikke er nogen der vil med mig i byen,,,,,
+*BE,ehh hhe  h,ehh hhe   h,VERB X SPACE NOUN,ROOT advmod dep ROOT,ehh ehh hhe h
+*AN,men så var alle lavede et eller andet så var jeg bare sådan,men så var alle lavede et eller andet så var jeg bare sådan,CCONJ ADV AUX ADJ VERB DET CCONJ PRON ADV AUX PRON ADV ADV,cc advmod aux nsubj ROOT nsubj dep conj advmod cop nsubj advmod advmod,lavede lavede lavede lavede lavede lavede andet et lavede sådan sådan sådan lavede
+pfh  nå,,,,,
+%com	AN trækker på skuldrene mens hun siger pf,,,,,
+*AN,så gider jeg ikke jeg kender jo heller ikke de der karate,så gider jeg ikke jeg kender jo heller ikke de der karate,ADV VERB PRON ADV PRON VERB ADV ADV ADV PRON ADV X,advmod ROOT nsubj advmod nsubj advcl advmod advmod advmod obj advmod acl:relcl,gider gider gider gider kender gider kender ikke kender kender de de
+*BE,what ever hi hi hi,what ever hi hi hi,NOUN VERB X X AUX,nsubj ROOT compound:prt advmod ROOT,ever ever ever ever hi
+*AN,guys,guys,NOUN,ROOT,guys
+*AN,så  jeg tænkte det er fint så lægger jeg mig til at sove,så   jeg tænkte det er fint så lægger jeg mig til at sove,ADV SPACE PRON VERB PRON AUX ADJ ADV VERB PRON PRON ADP PART VERB,mark dep nsubj advmod nsubj cop amod advmod ROOT nsubj obj mark mark advcl,tænkte så tænkte lægger fint fint tænkte lægger lægger lægger lægger sove sove lægger
+*AN,så det gjorde jeg,så det gjorde jeg,SCONJ PRON VERB PRON,advmod obj ROOT nsubj,det gjorde gjorde gjorde
+*BE,nå men hvis det kan trøste dig så var de også sådan lidt øh,nå men hvis det kan trøste dig så var de også sådan lidt øh,VERB CCONJ SCONJ PRON AUX VERB PRON ADV AUX PRON ADV ADV ADJ NOUN,ROOT cc mark nsubj aux conj obj advmod cop nsubj advmod advmod amod punct,nå trøste trøste trøste trøste nå trøste øh øh øh sådan øh øh nå
+i-ikke Mikkel selvfølgelig men de der hans venner der,,,,,
+*AN,hm,hm,ADJ,ROOT,hm
+*BE,lidt nederen sniff jeg kommer ned til den der lejlighed der,lidt nederen sniff jeg kommer ned til den der lejlighed der,ADV NOUN NUM PRON VERB ADV ADP DET ADV NOUN ADV,advmod nsubj appos nsubj ROOT advmod:lmod case det dep obl obl:lmod,nederen kommer nederen kommer kommer kommer den lejlighed lejlighed kommer kommer
+*BE,å så sidder der de her fyre  å de alle sammen sådan vildt sådan,å så sidder der de her fyre   å de alle sammen sådan vildt sådan,ADP ADV VERB ADV PRON ADV ADJ SPACE ADP DET ADJ ADV ADJ NOUN ADV,dep advmod ROOT expl det advmod obj dep case det amod advmod amod obl ROOT,sidder sidder sidder sidder fyre de sidder fyre vildt vildt vildt sådan vildt fyre sådan
+%com	BE viser nogle forskellige udtryk med ansigtet og kroppen,,,,,
+*BE,sådan ja sådan hvordan s- du ved Luux agtige,sådan ja sådan hvordan s- du ved Luux agtige,ADJ INTJ ADV ADV PROPN PRON ADP NUM ADJ,amod nsubj advmod obl obl nsubj case advcl ROOT,agtige sådan sådan sådan sådan sådan Luux sådan agtige
+*AN,ja,ja,INTJ,ROOT,ja
+*BE,og så øh for den ene han render sådan rundt å hele tiden skifter,og så øh for den ene han render sådan rundt å hele tiden skifter,CCONJ ADV NOUN ADP DET ADJ PRON VERB ADV ADV ADP ADJ NOUN VERB,cc advmod ROOT case det obl nsubj acl:relcl advmod advmod:lmod case amod obl ROOT,øh øh øh ene ene øh render ene rundt render tiden tiden rundt skifter
+skjorte  ∙mt m skal jeg have den hvide skjorte på med knapperne,,,,,
+eller skal jeg have den med den dybe V hals på sådan virkelig,,,,,
+å så,,,,,
+*AN,INGEN AF DEM ehhh hhe hhe hhe hhe,INGEN AF DEM ehhh hhe hhe hhe hhe,PRON ADP PRON NOUN ADV NOUN NOUN NOUN,ROOT case nmod nmod advmod advmod advmod acl:relcl,INGEN DEM INGEN INGEN INGEN INGEN hhe INGEN
+*BE,nej præcis hhh,nej præcis hhh,NOUN ADV PROPN,ROOT ROOT dep,nej præcis præcis
+*AN,hh hhe h hhe,hh hhe h hhe,X NOUN X NOUN,ROOT amod advmod ROOT,hh hh hh hhe
+*BE,host å så,host å så,NOUN ADP ADV,ROOT case ROOT,host så så
+*BE,altså normal kutyme tænker jeg bare hvis man kommer  som den,altså normal kutyme tænker jeg bare hvis man kommer   som den,ADV ADV ADJ VERB PRON ADV SCONJ PRON VERB SPACE ADP DET,advmod amod ROOT expl nsubj advmod mark nsubj advcl dep case ROOT,kutyme kutyme kutyme kutyme tænker tænker kutyme kommer kutyme kommer den den
+eneste person ind i et selskab der overhovedet ikke kender nogen,,,,,
+så er det sådan social kutyme at man øh  øh sådan indlemmer,,,,,
+vedkommende i det sociale fællesskab ikke,,,,,
+*AN,ja ja,ja ja,NOUN INTJ,dep ROOT,ja ja
+*BE,å jeg kendte jo kun Mikkel å Mikkel var også vildt sød å,å jeg kendte jo kun Mikkel å Mikkel var også vildt sød å,ADP PRON VERB ADV ADV PROPN ADP PROPN AUX ADV ADV ADJ ADP,mark nsubj ROOT advmod advmod obj case nmod cop advmod advmod advmod ROOT,kendte kendte kendte kendte Mikkel kendte Mikkel Mikkel sød sød sød kendte å
+*BE,å snakkede med mig å sådan noget der men de andre,å snakkede med mig å sådan noget der men de andre,ADP VERB ADP PRON ADP ADJ PRON ADV CCONJ DET ADJ,case ROOT case nmod case dep nmod advmod cc det dep,snakkede snakkede mig snakkede noget noget snakkede andre andre andre snakkede
+*BE,hhh øh å så øh så sætter jeg mig sådan å så,hhh øh å så øh så sætter jeg mig sådan å så,DET NOUN ADP ADV NOUN ADV VERB PRON PRON ADV ADP ADV,det ROOT case amod nmod advmod ROOT nsubj obj advmod punct ROOT,øh øh øh øh øh sætter sætter sætter sætter sætter sådan så
+*BE,e så  der s-så finder jeg så ud af hvem det er der bor der ikke,e så   der s-så finder jeg så ud af hvem det er der bor der ikke,NOUN ADV SPACE ADV ADV VERB PRON ADV ADV ADP PRON PRON VERB ADV NOUN ADV ADV,obj advmod dep obl advmod ROOT nsubj advmod advmod case mark nsubj dep expl obj expl advmod,finder finder så finder finder finder finder finder finder hvem er er finder er er bor bor
+å siger hej å sådan tak fordi jeg måtte komme,,,,,
+*BE,hh sådn  ah ja ja fint nok,hh sådn   ah ja ja fint nok,NOUN NOUN SPACE DET NOUN X ADJ ADV,ROOT obj dep case dep dep ROOT advmod,hh hh sådn ja sådn sådn fint fint
+*BE,jeg siger så nå m-  fed lejlighed  ellers ehhh hhe hhe,jeg siger så nå m-   fed lejlighed   ellers ehhh hhe hhe,PRON VERB ADV VERB PRON SPACE NOUN NOUN SPACE ADV NOUN ADP NOUN,nsubj ROOT advmod advmod iobj dep list obj dep advmod nmod advmod advmod,siger siger nå siger siger m- m- siger lejlighed ehhh lejlighed ehhh ehhh
+*AN,hhhe,hhhe,NOUN,ROOT,hhhe
+*AN,jeg tænkte sådan nå okay så starter med et kompliment så har det,jeg tænkte sådan nå okay så starter med et kompliment så har det,PRON VERB ADJ VERB ADJ ADV VERB ADP DET NOUN ADV VERB PRON,nsubj ROOT amod xcomp advmod advmod conj case det obl advmod conj obj,tænkte tænkte tænkte tænkte tænkte starter tænkte kompliment kompliment starter har starter har
+ligesom brudt iset å sådan noget ikke å,,,,,
+*AN,fed skjorte,fed skjorte,NOUN VERB,nsubj ROOT,skjorte skjorte
+*BE,det ja  fed skjorte hehe jeg kan faktisk godt lide den,det ja   fed skjorte hehe jeg kan faktisk godt lide den,DET INTJ SPACE NOUN VERB NOUN PRON AUX ADV ADV VERB PRON,det nmod dep nsubj ROOT advmod nsubj aux advmod advmod ccomp obj,fed fed ja skjorte skjorte skjorte lide lide lide lide skjorte lide
+*AN,hehehehehehe,hehehehehehe,VERB,ROOT,hehehehehehe
+*BE,med ve hals,med ve hals,ADP DET NOUN,case det ROOT,hals hals hals
+*AN,den er bedre den med ve hals aha ha ha ha,den er bedre den med ve hals aha ha ha ha,PRON AUX ADJ PRON ADP DET NOUN NOUN PRON X X,nsubj cop ROOT dep case det obl nmod nmod punct ROOT,bedre bedre bedre bedre hals hals bedre hals hals bedre ha
+*BE,he he he he he å så,he he he he he å så,X X X X PROPN ADP ADV,ROOT nummod nummod nummod flat ROOT ROOT,he he he he he å så
+øh  så siger han sådan øh ∙mt jamen tak jeg er også øh jeg er,,,,,
+også lige flyttet ind,,,,,
+*BE,å det  ja det kan man godt se der er ikke så meget på,å det   ja det kan man godt se der er ikke så meget på,ADP DET SPACE NOUN PRON AUX PRON ADV VERB ADV VERB ADV ADV ADJ ADP,case det dep dep obj aux nsubj advmod ROOT expl acl:relcl advmod advmod obj dep,ja ja det se se se se se se er man er meget er se
+væggene,,,,,
+*AN,∙mt nej,∙mt nej,VERB NOUN,aux ROOT,nej nej
+*BE,det er der ikke,det er der ikke,PRON VERB ADV ADV,dep ROOT expl advmod,er er er er
+*BE,i stedet for så er han han er bare sådan helt han siger ikke sådan,i stedet for så er han han er bare sådan helt han siger ikke sådan,ADP NOUN ADP ADV AUX PRON PRON AUX ADV ADV PRON PRON VERB ADV ADV,case ROOT advmod advmod cop nsubj nsubj cop advmod ROOT obl nsubj dep advmod advmod,stedet stedet stedet er sådan sådan sådan sådan sådan sådan sådan siger sådan siger siger
+noget nej men det der jeg har et maleri der skal op å hænge,,,,,
+der eller sådan noget overhovedet ikke noget,,,,,
+*BE,så siger jeg sådan nå men øhm,så siger jeg sådan nå men øhm,ADV VERB PRON ADV VERB CCONJ ADV,advmod ROOT nsubj amod dep cc conj,siger siger siger nå siger øhm nå
+*BE,hva- k- hva hva koster den så sådan en,hva- k- hva hva koster den så sådan en,X X X X VERB PRON ADV ADJ DET,ROOT flat obj nsubj ROOT nsubj advmod advmod dep,hva- hva- koster koster koster koster sådan koster sådan
+*BE,den er rigtig rigtig fed jo,den er rigtig rigtig fed jo,PRON AUX ADV ADJ VERB ADV,nsubj cop advmod amod ROOT advmod,fed fed rigtig fed fed fed
+*BE,hva koster den ehe,hva koster den ehe,X VERB DET VERB,nsubj ROOT det obj,koster koster ehe koster
+*BE,ja den er ret dyr,ja den er ret dyr,INTJ PRON AUX ADV NOUN,dep nsubj cop advmod ROOT,dyr dyr dyr dyr dyr
+*BE,siger han så bare,siger han så bare,VERB PRON ADV ADV,ROOT nsubj advmod advmod,siger siger siger siger
+*BE,og der var bare overhovedet ikke noget at komme efter å der car,og der var bare overhovedet ikke noget at komme efter å der car,CCONJ ADV AUX ADV NOUN ADV PRON PART VERB ADV ADP ADV VERB,cc expl ROOT advmod obj advmod obj mark acl:relcl mark mark advmod nmod,var var var overhovedet var var var komme noget komme komme å noget
+*AN,,,,,
+*BE,sådan n,sådan n,ADJ ADP,ROOT punct,sådan sådan
+*BE,nå okay så tænkte jeg sådan okay er det mig der har opført mig,nå okay så tænkte jeg sådan okay er det mig der har opført mig,VERB ADJ ADV VERB PRON ADV ADJ AUX PRON NOUN ADV AUX VERB PRON,ROOT obj advmod ROOT nsubj advmod dep cop nsubj nsubj nsubj aux acl:relcl obj,nå nå tænkte tænkte tænkte okay tænkte mig mig tænkte opført opført mig opført
+socialt uanstændigt nu fordi  det kan jo godt være at det er,,,,,
+sådan det er nogen der ikke vil sige hva de tjener å sådan noget,,,,,
+at han så ikke vil sige hva hans lejlighed kostede,,,,,
+*AN,ja ja,ja ja,NOUN INTJ,dep ROOT,ja ja
+*BE,å så prøvede jeg sådan å sige noget til en af de andre sådan et,å så prøvede jeg sådan å sige noget til en af de andre sådan et,ADP ADV VERB PRON ADV ADP VERB PRON ADP PRON ADP DET ADJ ADJ DET,obj advmod ROOT nsubj advmod punct acl:relcl obj case obl case det nmod amod obl,prøvede prøvede prøvede prøvede prøvede sådan sådan sige en sige andre andre en prøvede sådan
+eller andet,,,,,
+*BE,men han sidder bare  m,men han sidder bare   m,CCONJ X VERB ADV SPACE X,cc ROOT ROOT advmod dep obl,han han sidder sidder bare sidder
+%com	BE vrænger ansigt sammen med m,,,,,
+*BE,m sådan å,m sådan å,X ADV ADP,nsubj ROOT punct,sådan sådan sådan
+*AN,,,,,
+*BE,okay,okay,ADJ,ROOT,okay
+*AN,var der kun fyre,var der kun fyre,VERB ADV ADV NOUN,ROOT expl advmod obj,var var fyre var
+*BE,nej der var også nogle piger imellem,nej der var også nogle piger imellem,INTJ ADV VERB ADV DET NOUN ADP,cc expl ROOT advmod det obj punct,var var var var piger var var
+*AN,du er ikke så god til at komme ind på pigerne,du er ikke så god til at komme ind på pigerne,PRON AUX ADV ADV ADJ ADP PART VERB ADV ADP NOUN,nsubj cop advmod advmod ROOT mark mark acl:relcl advmod:lmod case obl,god god god god god komme komme god komme pigerne ind
+*BE,eHh hhe hhe,eHh hhe hhe,VERB ADV NOUN,ROOT advmod advmod,eHh eHh eHh
+*AN,hh hhe hhe  hhe,hh hhe hhe   hhe,VERB NOUN NOUN SPACE NOUN,ROOT advmod obl dep ROOT,hh hh hh hhe hhe
+*BE,jo jo hhe,jo jo hhe,ADV ADV NOUN,advmod advmod ROOT,hhe hhe hhe
+*BE,jo jo nej nej det fak- nej var x så svært at komme ind,jo jo nej nej det fak- nej var x så svært at komme ind,ADV ADV NOUN INTJ DET ADJ NOUN AUX ADV ADV ADJ PART VERB ADV,advmod advmod obl cc det amod advmod cop mark advmod ROOT mark acl:relcl advmod:lmod,nej nej svært nej nej nej nej svært svært svært svært komme svært komme
+på piger sådan til sådan et selskab,,,,,
+*AN,ja,ja,INTJ,ROOT,ja
+*BE,her når man kommer der,her når man kommer der,ADV SCONJ PRON VERB ADV,advmod mark nsubj ROOT expl,kommer kommer kommer kommer kommer
+*AN,ja  det er det,ja   det er det,INTJ SPACE PRON AUX PRON,ROOT dep ROOT cop nsubj,ja ja det det det
+*BE,å,å,ADP,ROOT,å
+*AN,du gik efter de sikre,du gik efter de sikre,PRON VERB ADP DET ADJ,nsubj ROOT case det obl,gik gik sikre sikre gik
+*BE,ja jeg tænkte sådan fyrene dem kan man da altid snakke med det,ja jeg tænkte sådan fyrene dem kan man da altid snakke med det,INTJ PRON VERB ADJ NOUN PRON AUX PRON ADV ADV VERB ADP PRON,dep nsubj ROOT amod obj obj aux nsubj advmod advmod advmod case obl,tænkte tænkte tænkte fyrene tænkte snakke snakke snakke snakke snakke tænkte det snakke
+kunne man ikke,,,,,
+*AN,eh hhe heller ikke,eh hhe heller ikke,ADV ADV NOUN ADV,ROOT list dep advmod,eh eh hhe eh
+*BE,ej å det værste var så f kom jeg faktisk i snak med en af pigerne,ej å det værste var så f kom jeg faktisk i snak med en af pigerne,NOUN ADP DET ADJ VERB ADV ADV VERB PRON ADV ADP NOUN ADP PRON ADP NOUN,nsubj case det nmod ROOT advmod advmod obl nsubj advmod case obl case obl case nmod,var værste værste ej var f kom var kom kom snak kom en kom pigerne en
+*BE,å hun var vildt sød å sådan noget,å hun var vildt sød å sådan noget,ADP PRON AUX VERB ADJ ADP ADJ PRON,mark nsubj aux ROOT amod case obl obl,vildt vildt vildt vildt vildt sådan vildt sådan
+*BE,ej men hun læste til fysioterapeut å det var bare å så snakkede,ej men hun læste til fysioterapeut å det var bare å så snakkede,ADV CCONJ PRON VERB ADP NOUN ADP PRON AUX ADV ADP ADV VERB,ROOT cc nsubj conj case obl case nsubj cop compound:prt case advmod nmod,ej læste læste ej fysioterapeut læste det bare bare fysioterapeut snakkede snakkede ej
+vi om studiet å sådan noget der,,,,,
+*BE,de der fyre der de var bare helt blanke altså  der var bare ikke,de der fyre der de var bare helt blanke altså   der var bare ikke,PROPN ADV VERB ADV PRON AUX ADV DET NOUN ADV SPACE ADV AUX ADV ADV,mark expl ROOT expl nsubj cop advmod det obj advmod dep nsubj conj advmod advmod,fyre fyre fyre fyre blanke blanke blanke blanke fyre blanke altså var fyre var var
+noget at komme efter,,,,,
+*AN,er de alle sammen sådan nogen karatetype,er de alle sammen sådan nogen karatetype,AUX PRON ADJ ADV ADJ DET NOUN,cop nsubj amod advmod amod det ROOT,karatetype sådan de sådan karatetype karatetype karatetype
+eller,,,,,
+*BE,nej nej det er kun Mikkel der  går til karate,nej nej det er kun Mikkel der   går til karate,NOUN INTJ PRON AUX ADV PROPN ADV SPACE VERB ADP NOUN,ROOT ROOT nsubj cop advmod nmod flat dep acl:relcl case obl,nej nej Mikkel Mikkel Mikkel nej Mikkel der Mikkel karate går
+*AN,er det ham jeg har mødt eller hva,er det ham jeg har mødt eller hva,AUX PRON PRON PRON AUX VERB CCONJ VERB,cop advmod ROOT nsubj aux acl:relcl cc conj,det ham ham mødt mødt ham hva mødt
+*BE,ja,ja,INTJ,ROOT,ja
+*AN,ham der er venner med Søren  var Søren der ikke,ham der er venner med Søren   var Søren der ikke,PRON ADV AUX NOUN ADP PROPN SPACE AUX PROPN ADV ADV,ROOT nsubj cop acl:relcl case nmod dep ROOT nsubj advmod advmod,ham venner venner ham Søren venner Søren var var var var
+*BE,nejnej,nejnej,NOUN,ROOT,nejnej
+nejnejnej,,,,,
+*AN,nej  nejnej,nej   nejnej,NOUN SPACE NOUN,ROOT dep nmod,nej nej nej
+*BE,nej,nej,NOUN,ROOT,nej
+*BE,nej men han kom også på Luux senere så,nej men han kom også på Luux senere så,NOUN CCONJ PROPN VERB ADV ADP PROPN ADV ADV,ROOT cc nsubj ROOT advmod punct nsubj advmod advmod,nej kom kom kom kom kom kom så kom
+*BE,det  sødt x på L E bar hhhe,det   sødt x på L E bar hhhe,DET SPACE ADJ NOUN ADP PROPN PROPN ADJ ADV,det dep amod ROOT case nmod flat amod punct,sødt det x x L x L L x
+hhe,,,,,
+*AN,ehh hha hha ej,ehh hha hha ej,VERB X PROPN ADV,ROOT flat obj advmod,ehh ehh ehh ehh
+*AN,ej det er dårligt stil,ej det er dårligt stil,ADV PRON AUX ADJ NOUN,advmod nsubj cop amod ROOT,stil ej stil stil stil
+*BE,ja,ja,INTJ,ROOT,ja
+*AN,ej men det var faktisk helt vildt sjovt ude til den øh  til,ej men det var faktisk helt vildt sjovt ude til den øh   til,ADV CCONJ PRON AUX ADV ADV ADV ADJ ADV ADP DET NOUN SPACE ADP,dep cc nsubj cop advmod advmod advmod conj ROOT case det obl dep ROOT,ude sjovt sjovt sjovt sjovt vildt sjovt ej ude øh øh ude øh til
+den der fest bagefter,,,,,
+*AN,altså den revyfest der,altså den revyfest der,ADV DET ADJ ADV,advmod det ROOT expl,revyfest revyfest revyfest revyfest
+*BE,det var helt hvad,det var helt hvad,PRON AUX ADV PRON,nsubj cop advmod ROOT,hvad hvad hvad hvad
+*AN,altså det var faktisk helt vildt grineren i skulle bare være,altså det var faktisk helt vildt grineren i skulle bare være,ADV PRON AUX ADV ADV NOUN NOUN ADP AUX ADV AUX,advmod nsubj cop advmod advmod case ROOT case ROOT ROOT conj,vildt vildt vildt vildt vildt grineren grineren skulle skulle bare bare
+blevet,,,,,
+*BE,host  det er bare også helt vildt nederen over fordi at  x,host   det er bare også helt vildt nederen over fordi at   x,NOUN SPACE PRON AUX ADV ADV ADV NOUN NOUN ADP SCONJ SCONJ SPACE ADJ,nmod dep nsubj cop advmod advmod advmod nmod ROOT mark punct fixed dep ROOT,nederen host nederen nederen vildt helt vildt nederen nederen x over over at x
+Ruså å Søren det var dem jeg havde aftalt at vi skulle i byen,,,,,
+*BE,å Ruså  å jeg havde begge to ret mange tømmermænd i forvejen,å Ruså   å jeg havde begge to ret mange tømmermænd i forvejen,ADP PROPN SPACE ADP PRON AUX PRON NUM ADV ADJ NOUN ADP NOUN,case ROOT dep mark nsubj advmod det nummod advmod amod obj case ROOT,Ruså Ruså Ruså havde havde Ruså tømmermænd tømmermænd tømmermænd tømmermænd havde forvejen forvejen
+fordi vi begge havde været i byen om fredagen,,,,,
+*AN,ja jeg var jo ligesom med,ja jeg var jo ligesom med,INTJ PRON VERB ADV SCONJ ADP,dep nsubj ROOT advmod advmod advmod,var var var var var var
+*BE,øhm,øhm,ADV,ROOT,øhm
+*BE,nåh ja,nåh ja,NOUN INTJ,ROOT nmod,nåh nåh
+*AN,hm hm,hm hm,ADV ADV,ROOT advmod,hm hm
+*BE,og så øh,og så øh,CCONJ ADV VERB,cc advmod ROOT,øh øh øh
+*BE,min l- Ruså han sad sådan å begyndte sådan å hænge lidt under,min l- Ruså han sad sådan å begyndte sådan å hænge lidt under,DET X PROPN PRON VERB ADJ NOUN VERB ADJ ADP ADJ ADV ADP,det dep nsubj punct advmod amod advmod ROOT advmod case amod advmod punct,Ruså Ruså sad Ruså begyndte sad sad begyndte begyndte lidt lidt begyndte begyndte
+den der revy å sådan åh,,,,,
+*BE,tænkte bare sådan han bæller bare ikke nu,tænkte bare sådan han bæller bare ikke nu,VERB ADV ADV PRON VERB ADV ADV ADV,ROOT advmod advmod nsubj ccomp advmod advmod advmod,tænkte tænkte tænkte bæller tænkte bæller bæller bæller
+*BE,det gør han bare ikke,det gør han bare ikke,PRON VERB PRON ADV ADV,obj ROOT nsubj advmod advmod,gør gør gør gør gør
+*BE,å så sagde jamen det ville han heller ikke gøre å sådan noget,å så sagde jamen det ville han heller ikke gøre å sådan noget,ADP ADV VERB CCONJ PRON AUX PRON ADV ADV VERB ADP ADJ PRON,mark advmod ROOT nsubj obj aux nsubj advmod advmod dep punct amod obl,sagde sagde sagde sagde gøre gøre gøre ikke gøre sagde gøre sagde sådan
+*BE,nåmen såh øh ville han bare men han ville have vi skulle,nåmen såh øh ville han bare men han ville have vi skulle,X ADJ NOUN AUX PRON ADV CCONJ PRON AUX VERB PRON AUX,det amod dep aux nsubj advmod cc nsubj aux ROOT nsubj advmod,øh øh have have have have have have have have have have
+tage hurtig lige når revyen var slut så skulle vi tage  hjem til,,,,,
+mig så kunne vi sidde der å drikke å sådan noget han gad ikke den,,,,,
+til den fest å sådan noget der,,,,,
+*AN,m,m,NOUN,ROOT,m
+*BE,ah okay det var også fair nok,ah okay det var også fair nok,DET ADJ PRON AUX ADV ADJ ADV,dep ROOT nsubj cop advmod amod ROOT,okay okay fair fair fair okay nok
+*BE,å så cykler vi e- x så GØR VI så får han sin v- for jeg ville,å så cykler vi e- x så GØR VI så får han sin v- for jeg ville,ADP ADV VERB PRON NUM ADP ADV NOUN PRON ADV VERB PRON DET NOUN CCONJ PRON AUX,dep advmod ROOT nsubj nmod case advmod advcl nsubj advmod ccomp nsubj det obj dep nsubj advmod,cykler cykler cykler cykler vi GØR GØR cykler så får cykler får v- får får cykler cykler
+gerne blive lidt længere,,,,,
+*BE,men så får han sin vilje å vi kører,men så får han sin vilje å vi kører,CCONJ ADV VERB PRON DET NOUN ADP PRON VERB,cc advmod ROOT nsubj det obj nmod nsubj acl:relcl,får får får får vilje får vilje kører vilje
+*AN,m,m,X,ROOT,m
+*BE,er stået der å han så siger så han ville lige hjem å skifte,er stået der å han så siger så han ville lige hjem å skifte,AUX PROPN ADV ADP PRON ADV VERB ADV PRON AUX ADV ADV ADP NOUN,cop ROOT expl case obl advmod acl:relcl advmod nsubj aux advmod advmod:lmod case obl,stået stået stået han siger siger stået siger siger hjem hjem siger skifte hjem
+skjorte,,,,,
+*BE,inden at øh han k-så kom han bare hjem til mig ti minutter senere,inden at øh han k-så kom han bare hjem til mig ti minutter senere,ADP PART VERB PRON AUX VERB PRON ADV ADV ADP PRON NUM NOUN NOUN,mark mark dep obj advmod ROOT nsubj advmod advmod:lmod case obl nummod nsubj punct,øh øh kom øh kom kom kom kom kom mig hjem minutter kom kom
+*BE,fair nok,fair nok,NOUN ADV,ROOT advmod,fair fair
+*BE,og så tager Søren å jeg så  hjem til mig å sidder,og så tager Søren å jeg så   hjem til mig å sidder,CCONJ ADV VERB NOUN PRON PRON ADV SPACE ADV ADP PRON ADP VERB,cc advmod ROOT nsubj nsubj nsubj advmod dep advmod:lmod case obl case obl,tager tager tager tager tager å tager så tager mig hjem sidder tager
+*BE,og så skriver Ruså selvfølgelig beskeden med,og så skriver Ruså selvfølgelig beskeden med,CCONJ ADV VERB PROPN ADV ADJ ADP,cc advmod ROOT nsubj advmod obj ROOT,skriver skriver skriver skriver beskeden skriver med
+*AN,ja,ja,INTJ,ROOT,ja
+*BE,eu jeg bliver hjemme jeg kan ikke,eu jeg bliver hjemme jeg kan ikke,ADJ PRON AUX ADJ PRON AUX ADV,dep nsubj cop ROOT nsubj acl:relcl advmod,hjemme hjemme hjemme hjemme kan hjemme kan
+*BE,å så å SÅ ER HAN JO NEJ FORDI SÅ ER HAN JO TAGET HJEM,å så å SÅ ER HAN JO NEJ FORDI SÅ ER HAN JO TAGET HJEM,ADP ADV ADP PROPN AUX PRON ADV PROPN SCONJ ADV AUX PRON ADV VERB ADV,case advmod ROOT fixed cop nsubj ROOT list ccomp advmod aux nsubj advmod ROOT ROOT,så å å å å å JO JO TAGET TAGET TAGET TAGET TAGET TAGET HJEM
+*AN,,,,,
+*BE,så kan man ikke sådan sige kom herhen eller sådan noget,så kan man ikke sådan sige kom herhen eller sådan noget,ADV AUX PRON ADV ADV NOUN VERB NOUN CCONJ ADJ PRON,advmod aux nsubj advmod amod nsubj ROOT obj cc conj dep,sige sige sige sige sige kom kom kom sådan herhen kom
+*AN,hnn,hnn,NOUN,ROOT,hnn
+*BE,å så kan-,å så kan-,ADP ADV X,case amod ROOT,kan- kan- kan-
+*AN,nej,nej,NOUN,ROOT,nej
+*BE,så er jeg ude h af stand til overtale ham eller stå du ved og,så er jeg ude h af stand til overtale ham eller stå du ved og,ADV AUX PRON VERB NOUN ADP NOUN ADP ADJ PRON CCONJ VERB PRON ADV CCONJ,advmod ROOT nsubj nsubj flat case obl case amod nmod cc conj obj obl cc,er er ude er ude stand ude ham ham stand stå ude stå stå stå
+ligesom  appellere til ham i min fysiske person ikke,,,,,
+*AN,ja                     ja,ja                      ja,X SPACE INTJ,dep dep ROOT,ja ja ja
+*AN,og totalt nedgjorde ham,og totalt nedgjorde ham,CCONJ ADV NOUN PRON,cc advmod ROOT obj,nedgjorde nedgjorde nedgjorde nedgjorde
+*BE,host,host,NOUN,ROOT,host
+*AN,ide til,ide til,NOUN ADP,ROOT ROOT,ide til
+*BE,ja,ja,PROPN,ROOT,ja
+*BE,det er jo det,det er jo det,PRON AUX ADV PRON,nsubj cop advmod ROOT,det det det det
+*BE,det er jo det,det er jo det,PRON AUX ADV PRON,nsubj cop advmod ROOT,det det det det
+*BE,å  så øh,å   så øh,ADP SPACE NOUN NOUN,case dep nsubj ROOT,øh å å øh
+*AN,aj men det var helt vildt sjovt selvom folk bare blev pisse,aj men det var helt vildt sjovt selvom folk bare blev pisse,NOUN CCONJ PRON AUX NUM ADV ADJ SCONJ NOUN ADV AUX NOUN,ROOT cc nsubj cop nsubj advmod ROOT mark nsubj advmod aux acl:relcl,aj sjovt sjovt sjovt sjovt sjovt sjovt pisse pisse pisse pisse det
+pissestive allesammen,,,,,
+*AN,å nogen havde taget deres egne hynder med ned i kælderen å,å nogen havde taget deres egne hynder med ned i kælderen å,ADP PRON AUX VERB DET ADJ VERB ADV ADV ADP NOUN ADP,case nsubj aux ROOT det amod obj advmod advmod:lmod case obl punct,nogen taget taget taget hynder hynder taget hynder hynder kælderen ned taget
+*BE,nåh                                                  nå hhe,nåh                                                   nå hhe,NOUN SPACE VERB NOUN,ROOT dep dep ROOT,nåh nåh nåh hhe
+hhe hhe,,,,,
+*AN,hh,hh,NOUN,ROOT,hh
+*AN,men jeres  studie jeres årgang drikker altså mere end min årgang,men jeres   studie jeres årgang drikker altså mere end min årgang,CCONJ DET SPACE NOUN DET NOUN VERB ADV ADJ ADP DET NOUN,cc det dep nsubj det nsubj ROOT advmod obj case det obl,studie studie jeres drikker årgang drikker drikker mere drikker årgang årgang mere
+tror jeg,,,,,
+*BE,så du så ikke revyen eller hva du sad da derop gjorde du ikke,så du så ikke revyen eller hva du sad da derop gjorde du ikke,VERB PRON ADV ADV NOUN CCONJ VERB PRON VERB ADV PRON VERB PRON ADV,advmod nsubj advmod advmod obj cc aux nsubj ROOT advmod obj ccomp nsubj advmod,sad så så så så hva sad sad sad sad gjorde sad gjorde gjorde
+*AN,jo,jo,ADV,ROOT,jo
+*BE,ah okay,ah okay,DET ADJ,dep ROOT,okay okay
+*AN,den var pissegod,den var pissegod,PRON AUX NOUN,nsubj cop ROOT,pissegod pissegod pissegod
+*BE,ja der er måske også rimelige meget Thomas Metts i den,ja der er måske også rimelige meget Thomas Metts i den,INTJ ADV VERB ADV ADV ADJ ADV PROPN PROPN ADP DET,ROOT expl conj advmod advmod advmod obj obj flat case obl,ja er ja er er meget er er Thomas den er
+*AN,ja,ja,INTJ,ROOT,ja
+*AN,eh han,eh han,ADV PRON,ROOT nsubj,eh eh
+*BE,eh he   hhe,eh he    hhe,ADV X SPACE PROPN,ROOT nummod dep nmod,eh hhe he eh
+*AN,altså godt kender jeg ham jo ikke men han,altså godt kender jeg ham jo ikke men han,ADV ADV VERB PRON PRON ADV ADV CCONJ PRON,advmod advmod ROOT nsubj obj advmod advmod cc conj,kender kender kender kender kender kender kender han kender
+han var da sådan rimelig,,,,,
+*BE,nåh han er ok men,nåh han er ok men,NOUN PRON AUX ADJ CCONJ,mark nsubj cop ROOT dep,ok ok ok ok ok
+*AN,markant i den,markant i den,ADJ ADP PRON,ROOT case obl,markant den markant
+*AN,det var hele tiden ham der skulle stå å snakke å sådan,det var hele tiden ham der skulle stå å snakke å sådan,PRON AUX ADJ NOUN PRON ADV AUX VERB ADP ADV ADP ADV,nsubj cop amod nmod ROOT nsubj aux acl:relcl case obl dep punct,tiden tiden tiden ham ham stå stå ham snakke stå stå ham
+*BE,nåmen det var fint nok han sådan var toastmaster eller hva hedder,nåmen det var fint nok han sådan var toastmaster eller hva hedder,X PRON AUX ADJ ADV PRON ADV AUX NOUN CCONJ NOUN VERB,ROOT nsubj cop acl:relcl advmod nsubj advmod cop nsubj cc conj conj,nåmen fint fint nåmen toastmaster toastmaster toastmaster toastmaster hedder hva toastmaster fint
+sådan noget hva hva hedder det sådan noget,,,,,
+*AN,ja,ja,INTJ,ROOT,ja
+*BE,ja ja men  for eksempel den der  madsketch der,ja ja men   for eksempel den der   madsketch der,PROPN INTJ CCONJ SPACE ADP NOUN PRON ADV SPACE NOUN ADV,ROOT flat cc dep case nmod conj advmod dep ROOT expl,ja ja den men eksempel den ja madsketch der madsketch madsketch
+*BE,den var jo ikke sjov,den var jo ikke sjov,PRON AUX ADV ADV NOUN,nsubj cop advmod advmod ROOT,sjov sjov sjov sjov sjov
+*AN,ej jeg var ved at brække mig  ad,ej jeg var ved at brække mig   ad,ADV PRON VERB ADP PART VERB PRON SPACE ADP,advmod nsubj ROOT mark mark advcl obj dep ROOT,var var var brække brække var brække mig ad
+*BE,den,den,PRON,ROOT,den
+var jo den var jo ikke sjov den var  den var jo ulækker,,,,,
+*AN,det var rigtigt Bec-,det var rigtigt Bec-,PRON AUX ADJ PROPN,nsubj cop amod ROOT,rigtigt rigtigt Bec- Bec-
+*BE,men den var jo ikke sjov,men den var jo ikke sjov,CCONJ PRON AUX ADV ADV NOUN,cc nsubj cop advmod advmod ROOT,sjov sjov sjov sjov sjov sjov
+*AN,de hav- det var rigtig Becel de drak,de hav- det var rigtig Becel de drak,DET X PRON AUX ADV ADJ PRON PROPN,det nsubj obj cop advmod ROOT flat dep,hav- Becel hav- Becel Becel Becel Becel Becel
+*BE,ja ja men det var jo,ja ja men det var jo,INTJ INTJ CCONJ PRON AUX ADV,dep ROOT cc conj ROOT advmod,ja ja det ja var var
+*AN,rej det ikk rigtig ketchup rigtig øh,rej det ikk rigtig ketchup rigtig øh,X DET NOUN ADV NOUN ADJ NOUN,ROOT det advmod advmod nsubj advmod punct,rej ketchup ketchup ikk rej ketchup ketchup
+*BE,,,,,
+*AN,ah men det var så klamt også bare da jeg så billedet var jeg,ah men det var så klamt også bare da jeg så billedet var jeg,NOUN CCONJ PRON AUX ADV ADV ADV ADV SCONJ PRON ADV NOUN AUX PRON,ROOT cc nsubj cop advmod conj advmod advmod mark nsubj advmod advmod ROOT nsubj,ah klamt klamt klamt klamt ah klamt klamt billedet billedet billedet ah var var
+*BE,,,,,
+*AN,ved at brække mig igen,ved at brække mig igen,ADP PART VERB PRON ADV,mark mark ROOT obj advmod,brække brække brække brække brække
+*BE,ja,ja,INTJ,ROOT,ja
+*AN,tænk at hun havde drukket  et blended flute med Becel,tænk at hun havde drukket   et blended flute med Becel,NOUN SCONJ PRON AUX VERB SPACE DET NOUN NOUN ADP PROPN,obl mark nsubj aux ROOT dep det amod obj case obl,drukket drukket drukket drukket drukket drukket blended flute drukket Becel drukket
+*AN,altså det var totalt klamt,altså det var totalt klamt,ADV PRON AUX ADJ ADJ,advmod nsubj cop advmod ROOT,klamt klamt klamt klamt klamt
+*AN,aj men det var virkelig ulækkert,aj men det var virkelig ulækkert,NOUN CCONJ PRON AUX ADV ADJ,punct cc nsubj cop advmod ROOT,ulækkert ulækkert ulækkert ulækkert ulækkert ulækkert
+*BE,ja,ja,INTJ,ROOT,ja
+*AN,hold kæft jeg synes det var godt de andre  altså,hold kæft jeg synes det var godt de andre   altså,NOUN AUX PRON VERB PRON AUX ADJ PRON PRON SPACE ADV,ROOT aux nsubj ROOT obj cop amod dep nmod dep advmod,hold synes synes synes synes godt synes synes de andre synes
+sådan Anders Fogh  gjorde det var helt vildt godt,,,,,
+*BE,og hajet fra hva hedder det Jonatan,og hajet fra hva hedder det Jonatan,CCONJ NOUN ADP ADJ VERB PRON NOUN,cc ROOT case nmod ROOT obj punct,hajet hajet hva hajet hedder hedder hedder
+*AN,han var så god,han var så god,PRON AUX PROPN ADJ,nsubj cop ROOT amod,så så så så
+*BE,fuck hvor var han sjov,fuck hvor var han sjov,NOUN ADV AUX PRON NOUN,nsubj advmod punct nsubj ROOT,sjov fuck hvor hvor sjov
+*AN,så god som den gamle prins,så god som den gamle prins,PROPN ADJ ADP DET ADJ NOUN,ROOT flat case det amod obl,så så prins prins prins god
+*BE,ejej jej jej,ejej jej jej,NOUN PROPN PROPN,ROOT list flat,ejej ejej jej
+*BE,ja,ja,INTJ,ROOT,ja
+*AN,kæft hvo-,kæft hvo-,VERB NOUN,ROOT ROOT,kæft hvo-
+*AN,å å som Anders Samuelsen,å å som Anders Samuelsen,ADP PROPN ADP PROPN PROPN,case nmod case ROOT flat,å Anders Anders Anders Anders
+*BE,,,,,
+*BE,ja å den der edderkop ah hhe,ja å den der edderkop ah hhe,NOUN ADP DET ADV NOUN ADP NOUN,ROOT case det dep conj nmod ROOT,ja den edderkop edderkop ja edderkop hhe
+*AN,,,,,

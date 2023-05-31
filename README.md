@@ -6,9 +6,11 @@ The code was written independently by me.
 ## 2. Methods
 As your everyday linguist, I wanted to test out what the extension and limits of current models are, when trying having to a Danish conversation manuscript. 
 The transcript provided as a textfile 'anne_og_beate.txt' in the folder ```in```. T
-I have used the Danish spaCy model `nlp = spacy.load("da_core_news_sm")` to perform POS-tagging and dependency tagging. 
+I have used the Danish spaCy model `nlp = spacy.load("da_core_news_sm")` to perform POS-tagging and dependency Parsing. 
+Part-Of-Speech (POS) tagging is a grammatical tagging of lexemes. 
+Dependency Parsing is a Natural Language Processing (NLP) texhnique that analyse the grammatical *structures* of the syntax, and how the words in a sentence depend on each other and form a structure. The dependy parsing both POS-tag, gives a dependy label and a head token.
 For the sentiment analysis I have implented [Sentida](https://github.com/Guscode/Sentida), a Danish sentiment analysis tool. 
-To convert the .txt-file to a dataframe the pandas command `pd.DataFrame()` was used.
+To convert the `.txt-file` to a dataframe the pandas command `pd.DataFrame()` was used.
 
 ### 2.1 Data
 The data was retrieved from [Samtalebank](https://samtalebank.talkbank.org/access/Sam2.html) in the folder called "Sam2" which is a collection of transcriptions of Danish conversations. The transcripts are equipped with a set of symbols and special characters, that showcases notational symbols for pronunciational and temporal features of speech. Since no models are able to interpret these symbols (for now), the conventions for which symbols to use varies, and I am not a programmer these symbols have been removed by simply searching and replacing.
@@ -19,8 +21,11 @@ The scripts where made in python 3.10.7. Should any errors occur, contrary to ex
 ### 3.1 Install packages
 From the command line, make sure your arel ocated in the main directory. Run the command `bash setup.sh` to install the required packages.
 ### 3.2 Run the scripts
-In the folder ```src``` the 
-In the main directory 
+In the folder ```src```, three pythonscripts are located: ```pos_tag.py```, ```dendency_gone_wrong.py``` and ```sentiment.py```. The `pos_tag.py` script outputs a .csv-table called Anne_og_Beate_POS.csv, with a column on the right called "POS" where it 
+
 
 ## 3.3  Results discussion
-Dependecy parsinG is a no go, but POS-tagging is working ok and sentiment analysis with the danis hsentiment analysis 
+Dependecy parsinG is a no go, but POS-tagging is working ok and sentiment analysis with the danis sentiment analysis 
+
+## 4. Contact
+For any questions, please write Nikita J. Myrting on the email: 201906799@post.au.dk.

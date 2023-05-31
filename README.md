@@ -30,8 +30,26 @@ In the folder ```src```, three pythonscripts are located: ```pos_tag.py```, ```d
 ## 3.3  Results discussion
 The POS-tagging is working ok and Sentiment analysis with the Danis sentiment analysis also ok. 
 I have had problems in how I could make the output a CSV-file without overcomplicating things. Especially with the sentiment analysis it proved hard, since the sentida will not work with a pandas dataframe. This is also why the output only have two columns "Text" and "Sentiment". It's too bad, since thsi means the sentiment analysis was also run on the speaker. Luckily the speakers doesn't form any meaningful word, and should not skew the results too much.
-A problem though, is the fact that the transcript is not always written not as real words, but in some contexts rely on the way they sound such as `å` being `og`. This mostly occurs with conjunctions, and more complicated words, if pronounced 'normally' follow the danish dictionary. If I wanted to imporve things, I probably should've made a stopwordlist.
-An example from 
+A problem though, is the fact that the transcript is not always written not as real words, but in some contexts rely on the way they sound such as `å` being `og`(*and*). This mostly occurs with conjunctions, and more complicated words, if pronounced 'normally' follow the danish dictionary. If I wanted to improve things, I probably should've made a stopwordlist. Though I tried to remove trailing white-space, it seems that some trailing white-space still persist.
+
+
+### 3.2 POS tagging
+The Pos tagging seems to work rather well with only minor mistakes, both due to the pronouncial spellings and interjections such as 'øh' or 'øhm'(*uhm*). When these interjections occur, it seems to give it a random POS-tag.These words should've been sorted out in a non-existent data augmentation process.
+Example:
+|1|Speaker|Text|Sentiment|
+|---|---|---|---|
+|5|BE|å så tænker jeg hva fanden jeg skal lave den her øh feature om|ADP ADV VERB PRON VERB NOUN PRON AUX VERB DET ADV NOUN NOUN ADP|
+
+The words are parsed mostly correct. The 'å' which in correct ortographic spelling would be an 'og' (*and*) is said to be an adposition though it is and adverb. This is understandable, since the model is trained on ortographic spelling.
+'hva' is furthermore an auditory spelling, which in ortographic manners would have been an 'hvad'(*what*) is a pronoun but is labeles as a verb. Here it can also be seen how the 'øh' is parsed as an adverb. 
+
+The results are, given the fact that this is not ortographic data, pretty okay, and the mdoel is able to grasp the big picture.
+### 3.3 depndency parsing
+The dependency parsing does not yield any amaxing results. I ended up uploading it, to showcase when things go rather awry, and to whocase the limitations of conversational data. 
+
+
+### 3.4 sentiment analysis
+An example from the ```Anne_og_Beate_sentiment.csv```
 |1|Text|Sentiment|
 |---|---|---|
 |377|*AN :ah men det var så klamt også bare da jeg så billedet var jeg|	-0.4833333333333333|
@@ -39,9 +57,10 @@ An example from
 |385|*AN :hold kæft jeg synes det var godt de andre altså|0.26111111111111146|
 |386|:sådan Anders Fogh gjorde det var helt vildt godt|	0.3500000000000003|
 
+Since the sentence i line 377 and 379 contains the lexemes 'klamt' and 'brække', it would make senese that these are rated negatively, while the sentences in line 385 and 386 contains the lexemes 'godt' and 'vildt godt' these rated as positive. Furthermore I am impressed that the sentiment analysis rate line 386 higher than 385, where the adverb 'vildt' modifies that adjective 'godt', and (probably) by that rates the sentence as more postive than without the adverb.
+The results are far from perfect, but it works to an extend.
 
-Since the two first 
-
+For the 
 
 
 ## 4. Contact

@@ -32,10 +32,16 @@ The POS-tagging is working ok and Sentiment analysis with the Danis sentiment an
 I have had problems in how I could make the output a CSV-file without overcomplicating things. Especially with the sentiment analysis it proved hard, since the sentida will not work with a pandas dataframe. This is also why the output only have two columns "Text" and "Sentiment". It's too bad, since thsi means the sentiment analysis was also run on the speaker. Luckily the speakers doesn't form any meaningful word, and should not skew the results too much.
 A problem though, is the fact that the transcript is not always written not as real words, but in some contexts rely on the way they sound such as `å` being `og`. This mostly occurs with conjunctions, and more complicated words, if pronounced 'normally' follow the danish dictionary. If I wanted to imporve things, I probably should've made a stopwordlist.
 An example from 
-|Text|Sentiment|
-|---|---|
-|AN :hold kæft jeg synes det var godt de andre altså|0.26111111111111146|
-|:sådan Anders Fogh gjorde det var helt vildt godt|	0.3500000000000003|
+|---|Text|Sentiment|
+|---|---|---|
+|377|*AN :ah men det var så klamt også bare da jeg så billedet var jeg|	-0.4833333333333333|
+|379|*AN : ved at brække mig igen|-0.533333333333334|
+|385|*AN :hold kæft jeg synes det var godt de andre altså|0.26111111111111146|
+|386|:sådan Anders Fogh gjorde det var helt vildt godt|	0.3500000000000003|
+
+
+Since the two first 
+
 
 
 ## 4. Contact

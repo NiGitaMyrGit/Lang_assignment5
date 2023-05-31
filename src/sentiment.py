@@ -13,7 +13,7 @@ def load_data(file_path):
     else:
         raise ValueError("Unsupported file format. Only .txt and .csv files are supported.")
 
-    lines = [line.strip() for line in lines if line.strip()]
+    lines = [line.strip() for line in lines if line.strip() and not line.startswith('@')]
     return lines
 
 def perform_sentiment_analysis(texts):

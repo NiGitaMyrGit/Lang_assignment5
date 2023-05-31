@@ -4,10 +4,10 @@ Speaker,Text,POS
 *BE,m  faktisk starter med  jeg ligger om aftenen på min seng,NOUN SPACE ADJ VERB ADP SPACE PRON VERB ADP NOUN ADP DET NOUN
 *BE,å så tænker jeg hva fanden jeg skal lave den her øh feature om,ADP ADV VERB PRON VERB NOUN PRON AUX VERB DET ADV NOUN NOUN ADP
 *BE,å så lige pludselig så  kommer det bare  som altså,ADP ADV ADV ADV ADV SPACE VERB PRON ADV SPACE ADP ADV
-slam  skrald  skal lave en feature om skrald,,
+,slam  skrald  skal lave en feature om skrald,VERB SPACE PROPN SPACE AUX VERB DET NOUN ADP NOUN
 *BE,øhm  å så ringer jeg dagen efter til øh  hva,ADV SPACE ADP ADV VERB PRON NOUN ADP ADP NOUN SPACE VERB
-hedder det Odense  Odense renovering  nej ikke,,
-renovering  Odense øhm,,
+,hedder det Odense  Odense renovering  nej ikke,VERB DET NOUN SPACE PROPN NOUN SPACE NOUN ADV
+,renovering  Odense øhm,NOUN SPACE PROPN NOUN
 *AN,skrald service,PROPN NOUN
 *BE,renovation,NOUN
 *BE,hedder det ikke det,VERB PRON ADV NOUN
@@ -17,42 +17,42 @@ renovering  Odense øhm,,
 *BE,Øh Odense renovationsselskab,NOUN PROPN NOUN
 *AN,hja,X
 *BE,å så får jeg deres kommunikationschef øh i røret å siger så men,ADP ADV VERB PRON DET NOUN NOUN ADP NOUN ADP VERB ADV CCONJ
-hva hva sker der lige på området med skrald har du ikke nogen,,
-god historie,,
+,hva hva sker der lige på området med skrald har du ikke nogen,AUX X VERB ADV ADV ADP NOUN ADP NOUN AUX PRON ADV PRON
+,god historie,ADJ NOUN
 *BE,øh å så snakker han  om hid å did å,NOUN ADP ADV VERB PRON SPACE ADP NOUN ADP NOUN ADP
 *BE,så var jeg nødt til a afbryde ham å sige jamen kan jeg ikke,ADV AUX PRON ADJ ADP X NOUN PRON ADP VERB CCONJ AUX PRON ADV
-komme med ud på sådan en skralde  bil å køre,,
+,komme med ud på sådan en skralde  bil å køre,VERB ADV ADV ADP ADJ DET ADJ SPACE VERB ADP NOUN
 *BE,å så siger han jo jo så er det klokken halv syv du skal være,ADP ADV VERB PRON ADV ADV ADV AUX PRON NOUN ADJ NUM PRON AUX AUX
-her så,,
+,her så,VERB ADV
 *BE,så jeg kan måske komme ud på en genbrugsstation,SCONJ PRON AUX ADV VERB ADV ADP DET NOUN
 *AN,ehh  hhe hhe,PROPN SPACE ADV NOUN
-hhe,,
+,hhe,NOUN
 *BE,hhh å være i stedet for,PROPN ADP VERB ADP NOUN ADP
 *BE,jo  jamen der var faktisk en genbrugsstation hvor der,ADV SPACE CCONJ ADV VERB ADV DET NOUN ADV ADV
-arbejdede to kvinder,,
+,arbejdede to kvinder,VERB NUM NOUN
 *BE,å så kunne jeg så lave en feature om øh  sådan nogen sådan,ADP ADV AUX PRON ADV VERB DET NOUN ADP NOUN SPACE ADJ DET ADV
-noget blå mænd  så noget,,
+,noget blå mænd  så noget,DET ADJ ADJ SPACE ADV PRON
 *AN,kvinder eller øh         ja,NOUN CCONJ NOUN SPACE NOUN
 *BE,kvindelige skraldemænd,ADJ NOUN
 *BE,kvindelige skraldemænd ja,ADJ NOUN INTJ
 *BE,øh det fik jeg så lov til,VERB PRON VERB PRON ADV NOUN ADP
 *BE,men så øh  reagerede han så å sagde at øh de var ikke på,CCONJ ADV VERB SPACE VERB PRON ADV PRON VERB PART VERB PRON VERB ADV ADP
-arbejde,,
+,arbejde,NOUN
 *BE,den søndag hvor jeg ville gøre det,DET NOUN ADV PRON AUX VERB PRON
 *BE,de var først på arbejde på næste søndag,PRON VERB ADV ADP NOUN ADP ADJ NOUN
-å den skulle afleveres tirsdag så  derfor så har jeg ikke,,
-fået den lavet,,
+,å den skulle afleveres tirsdag så  derfor så har jeg ikke,ADP PRON AUX VERB NOUN ADV SPACE ADV ADV VERB PRON ADV
+,fået den lavet,VERB PRON VERB
 *AN,kunne du ikke få rykket øh  din aflevering,AUX PRON ADV VERB NOUN NOUN SPACE DET NOUN
 *BE,host  m m,NOUN SPACE X X
 *BE,Jesper øh Stollemann han skrev til Bent Muk sådan et lang lang,PROPN PROPN PROPN PRON VERB ADP PROPN PROPN ADJ DET NOUN ADJ
-med- altså en eller andet sådan sindsyg  fed god undskyldning han,,
-virkelig sådan havde brugt tid på at konstruere,,
+,med- altså en eller andet sådan sindsyg  fed god undskyldning han,X ADV DET CCONJ PRON ADV ADJ SPACE NOUN ADJ NOUN PRON
+,virkelig sådan havde brugt tid på at konstruere,ADV ADV AUX VERB NOUN ADP PART VERB
 *BE,han fik bare  sådan no way der ikke nogen der får øh,PRON VERB ADV SPACE ADJ PROPN PROPN ADV ADV PRON ADV VERB NOUN
-dispensation,,
+,dispensation,NOUN
 *AN,så nu har du bare ikke afleveret noget,ADV ADV AUX PRON ADV ADV VERB PRON
 *BE,jo jo men jeg skal bare aflevere den senere men jeg får ikke,ADJ ADV CCONJ PRON AUX ADV VERB DET NOUN CCONJ PRON VERB ADV
-feedback på den nu skal jeg bare lave den uden at jeg  får,,
-noget feedback på den,,
+,feedback på den nu skal jeg bare lave den uden at jeg  får,NOUN ADP PRON ADV AUX PRON ADV VERB PRON ADP SCONJ PRON SPACE VERB
+,noget feedback på den,DET NOUN ADP DET
 *BE,jeg skal aflevere den for at komme til eksamen,PRON ADJ VERB PRON ADP PART VERB ADP NOUN
 *AN,det er en obligatorisk en,PRON AUX DET ADJ DET
 *BE,host m,NOUN NOUN
@@ -60,10 +60,10 @@ noget feedback på den,,
 *AN,nåmen laver du så om de der skralde bøv skraldekvinder,NOUN VERB PRON ADV SCONJ DET ADV ADJ NOUN X
 *BE,jah det ved jeg ikke,VERB PRON VERB PRON ADV
 *BE,det kan også være jeg bare  laver et eller andet interview,PRON AUX ADV AUX PRON ADV SPACE VERB DET CCONJ PRON NOUN
-med nogen,,
+,med nogen,ADP PRON
 *BE,jeg kan interviewe dig,PRON AUX VERB PRON
 *AN,ja  jeg har enormt mange spændende ting der sker i mit liv,PROPN SPACE PRON VERB ADV ADJ ADJ NOUN ADV VERB ADP DET NOUN
-lige nu  hhhe,,
+,lige nu  hhhe,ADV ADV SPACE NOUN
 *BE,ehh mhm nhi hi  host,VERB PROPN NOUN ADP SPACE NOUN
 *AN,,
 *AN,næh  det ved jeg ikke hva jeg skal snakke om,INTJ SPACE PRON VERB PRON ADV VERB PRON AUX VERB ADP
@@ -75,7 +75,7 @@ lige nu  hhhe,,
 *AN,nå men det var da helt vildt ærgeligt,VERB CCONJ PRON AUX ADV ADV NOUN ADJ
 *BE,HALLO HVA SKETE DER egentli- okay,ADJ NOUN VERB PRON X ADJ
 *BE,hva skete der egentlig for at øh  du blev væk fra mig,X VERB ADV ADV ADP PART VERB SPACE PRON AUX NOUN ADP PRON
-i øh  fredags,,
+,i øh  fredags,ADP NOUN SPACE NOUN
 *BE,lørdags,NOUN
 *AN,nej hva sker der for at du skred,NOUN X VERB ADV ADP SCONJ PRON NOUN
 *AN,å tog hjem til  din  du tog hjem med dine venner,ADP VERB ADV ADP SPACE DET SPACE PRON VERB ADV NOUN DET NOUN
@@ -87,7 +87,7 @@ i øh  fredags,,
 *BE,prøv ogå hør her,VERB DET NOUN ADV
 *AN,dig hvordan det foregik,PRON ADV PRON VERB
 *AN,du tog hjem å sagde så kom hjem til mig så sidder vi å drikker,PROPN VERB ADV ADP VERB NOUN VERB ADV ADP PRON ADV VERB PRON ADP VERB
-der,,
+,der,ADV
 *AN,så ringer jeg til dig,ADV VERB PRON VERB PRON
 *AN,Beate skal jeg komme hjem til dig,PROPN AUX PRON VERB ADV ADP PRON
 *AN,nej vi er de er er allesammen gået,INTJ PRON AUX PRON AUX AUX X VERB
@@ -106,7 +106,7 @@ der,,
 *BE,hhn hhn hhn,VERB NOUN X
 *BE,fik lige gjort mig klar,VERB ADV VERB PRON ADJ
 *BE,å så  ringer jeg til dig å så råber du bare ∇vi,ADP PROPN SPACE VERB PRON ADP PRON ADP ADV VERB PRON ADV X
-tager på Luux∇,,
+,tager på Luux∇,VERB ADP NOUN
 *BE,host,NOUN
 *BE,jeg stod inde,PRON VERB ADV
 *BE,jeg stod inde ved jakkerne jeg var lige lagt min jakke,PRON VERB ADV ADP NOUN PRON AUX ADV VERB DET X
@@ -116,116 +116,116 @@ tager på Luux∇,,
 *AN,nej det var ikke der jeg sagde,INTJ PRON AUX ADV ADV PRON VERB
 *BE,,
 *AN,Ej nå jeg troede i var jeg troede i var lige ved siden af mig,NOUN VERB PRON VERB ADV AUX PRON VERB ADV AUX ADV ADP NOUN ADP PRON
-jeg troede i var lige herovre,,
+,jeg troede i var lige herovre,PRON VERB ADV AUX ADV ADV
 *BE,ja  å så sagde jeg nej men vi er der vi er ikke lige på Luux,INTJ SPACE ADP ADV VERB PRON NOUN CCONJ PRON VERB ADV PRON AUX ADV ADV ADP PROPN
-men der er jo ikke særlig langt det er jo det samme jo,,
+,men der er jo ikke særlig langt det er jo det samme jo,CCONJ ADV VERB ADV ADV ADV ADV PRON AUX ADV DET ADJ ADV
 *BE,å så,ADP ADV
 *AN,ja men jeg gider da ikke være alene heller,INTJ CCONJ PRON VERB ADV ADV AUX ADV ADV
 *BE,nejnej  nejnej,NOUN SPACE CCONJ
 *AN,så ligner jeg sådan en før-,ADV VERB PRON ADV DET X
 *AN,for det første så er det sådan et popsted som hh man ikke måske,ADP DET ADJ ADV AUX PRON ADJ DET NOUN ADP X PRON ADV ADV
-ville tage hen lige meget hvad,,
+,ville tage hen lige meget hvad,AUX VERB ADV ADV ADJ NOUN
 *AN,e- men noget andet er jeg vil gerne tage derhen med dig men å kom,PROPN CCONJ PRON PRON AUX PRON AUX ADV VERB NOUN ADP PRON CCONJ ADP VERB
-∇alene∇,,
+,∇alene∇,ADV
 *AN,hen til en masse piger der kun har be håer på,ADV ADP DET NOUN NOUN ADV ADV VERB X NOUN ADP
 *AN,så ville jeg virkelig føle mig alt for påklædt å taberagtig,ADV AUX PRON ADV VERB PRON ADV ADV NOUN ADP X
-hvis jeg kom alene på  Luux,,
+,hvis jeg kom alene på  Luux,SCONJ PRON VERB ADV ADP SPACE ADV
 *BE,mhm ∙mf,NOUN NOUN
 *BE,nå okay men altså så ringer du å jeg sagde rigtig mange gange til,VERB ADJ CCONJ ADV ADV VERB PRON ADP PRON VERB ADV ADJ NOUN ADP
-dig at du skulle komme,,
+,dig at du skulle komme,PRON SCONJ PRON AUX VERB
 *BE,på Luux å det ville du ikke,ADP NUM ADP PRON AUX PRON ADV
 *BE,å  ja,ADP SPACE PROPN
 *AN,så faldt jeg i søvn,ADV VERB PRON ADP NOUN
 *BE,gjorde du,VERB PRON
 *BE,nå okay for jeg troede nemlig jeg tænkte at jeg  øh var helt,VERB ADJ ADP PRON VERB ADV PRON VERB SCONJ SYM SPACE NOUN AUX ADV
-vildt led nu fordi at så glemte jeg h ha,,
+,vildt led nu fordi at så glemte jeg h ha,NOUN NOUN ADV SCONJ SCONJ ADV VERB PRON NOUN ADJ
 *AN,hh,NOUN
 *BE,så glemte jeg at  du havde haft ringet fordi at jeg var ved at,ADV VERB PRON PART SPACE PRON AUX VERB VERB SCONJ SCONJ PRON VERB ADP PART
-være sådan rimlig vissen,,
+,være sådan rimlig vissen,AUX ADV ADJ NOUN
 *BE,h så øh  å så t-kiggede jeg på min telefon senere å så havde,X ADV VERB SPACE ADP ADV VERB PRON ADP DET NOUN ADV ADP ADV VERB
-du skreven en besked med kom ned til Magasin,,
+,du skreven en besked med kom ned til Magasin,PRON ADV DET NOUN ADP VERB ADV ADP NOUN
 *AN,ehe å der stod jeg bare hele natten,VERB ADP ADV VERB PRON ADV ADJ NOUN
 *BE,NEJ NEJ  det vidste jeg,NOUN INTJ SPACE PRON VERB PRON
-godt du ikke gjorde men så tænkte jeg bare  nå okay så er hun bare,,
-vildt sur nu fordi at øh det er jeg jo ikke,,
+,godt du ikke gjorde men så tænkte jeg bare  nå okay så er hun bare,ADV PRON ADV VERB CCONJ ADV VERB PRON ADV SPACE VERB ADJ ADV AUX PRON ADV
+,vildt sur nu fordi at øh det er jeg jo ikke,NOUN ADJ ADV SCONJ PART VERB PRON AUX PRON ADV ADV
 *BE,men jeg ville jo heller ikke x da heller ikke gå ned til Magasin,CCONJ PRON AUX ADV ADV ADV NOUN ADV ADV ADV VERB ADV ADP PROPN
-og hente dig,,
+,og hente dig,CCONJ VERB PRON
 *AN,,
-%com	AN rømmer sig,,
+%com,AN rømmer sig,PROPN VERB PRON
 *AN,det ligger squ da lige ved siden af Magasin,PRON VERB NOUN ADV ADV ADP NOUN ADP PROPN
 *BE,ja ja  men altså der er jo s- k- ø- kunne du ikke høre hva jeg,NOUN X SPACE CCONJ ADV ADV VERB ADV PROPN PROPN NOUN AUX PRON ADV VERB X PRON
-sagde i telefonen,,
+,sagde i telefonen,VERB ADP NOUN
 *AN,x at du ikke ville gå hen på Magasin,ADP SCONJ PRON ADV AUX VERB ADV ADP PROPN
 *BE,ja jeg sagde prøv,PROPN PRON VERB VERB
-og hør jeg har lige jeg har lige snydt mig ind  jeg har,,
-lige sprunget over køen altså jeg er herinde,,
+,og hør jeg har lige jeg har lige snydt mig ind  jeg har,CCONJ VERB PRON VERB ADV PRON AUX ADV VERB PRON VERB SPACE PRON AUX
+,lige sprunget over køen altså jeg er herinde,ADV VERB ADP NOUN ADV PRON AUX VERB
 *AN,det sagde du altså ikke,PRON VERB PRON ADV ADV
 *BE,jO,X
 *AN,nå oka-  men det er også lige meget for så faldt jeg i søvn,VERB NOUN SPACE CCONJ PRON AUX ADV ADV ADJ ADP ADV VERB PRON ADP NOUN
 *AN,så øh,ADV VERB
 *AN,nej så det gjorde jeg faktisk ikke så ringede jeg til Gitte å til,X SCONJ PRON VERB PRON ADV ADV ADV VERB PRON ADP PROPN ADV ADP
-Sara å til Lene,,
+,Sara å til Lene,PROPN ADP ADP PROPN
 *AN,å til Malene,ADV ADP PROPN
 *AN,å til alle h for at høre om de ville med mig i- ej hvor,ADV ADP ADJ X ADP PART VERB SCONJ PRON AUX ADP PRON NOUN ADV ADV
-nederen,,
+,nederen,NOUN
 *BE,vil i med på Luux  he he ha ha,AUX ADV ADV ADP PROPN SPACE X X NUM X
 *AN,nej det lyder bare som om,INTJ PRON VERB ADV ADV ADP
-der ikke er nogen der vil med mig i byen,,
+,der ikke er nogen der vil med mig i byen,ADV ADV AUX PRON ADV VERB ADP PRON ADP NOUN
 *BE,ehh hhe  h,VERB X SPACE NOUN
 *AN,men så var alle lavede et eller andet så var jeg bare sådan,CCONJ ADV AUX ADJ VERB DET CCONJ PRON ADV AUX PRON ADV ADV
-pfh  nå,,
-%com	AN trækker på skuldrene mens hun siger pf,,
+,pfh  nå,NOUN SPACE VERB
+%com,AN trækker på skuldrene mens hun siger pf,PROPN VERB ADP NOUN SCONJ PRON VERB NOUN
 *AN,så gider jeg ikke jeg kender jo heller ikke de der karate,ADV VERB PRON ADV PRON VERB ADV ADV ADV PRON ADV X
 *BE,what ever hi hi hi,NOUN VERB X X AUX
 *AN,guys,NOUN
 *AN,så  jeg tænkte det er fint så lægger jeg mig til at sove,ADV SPACE PRON VERB PRON AUX ADJ ADV VERB PRON PRON ADP PART VERB
 *AN,så det gjorde jeg,SCONJ PRON VERB PRON
 *BE,nå men hvis det kan trøste dig så var de også sådan lidt øh,VERB CCONJ SCONJ PRON AUX VERB PRON ADV AUX PRON ADV ADV ADJ NOUN
-i-ikke Mikkel selvfølgelig men de der hans venner der,,
+,i-ikke Mikkel selvfølgelig men de der hans venner der,X NOUN ADV CCONJ PRON ADV DET NOUN ADV
 *AN,hm,ADJ
 *BE,lidt nederen sniff jeg kommer ned til den der lejlighed der,ADV NOUN NUM PRON VERB ADV ADP DET ADV NOUN ADV
 *BE,å så sidder der de her fyre  å de alle sammen sådan vildt sådan,ADP ADV VERB ADV PRON ADV ADJ SPACE ADP DET ADJ ADV ADJ NOUN ADV
-%com	BE viser nogle forskellige udtryk med ansigtet og kroppen,,
+%com,BE viser nogle forskellige udtryk med ansigtet og kroppen,PROPN VERB DET ADJ NOUN ADP NOUN CCONJ NOUN
 *BE,sådan ja sådan hvordan s- du ved Luux agtige,ADJ INTJ ADV ADV PROPN PRON ADP NUM ADJ
 *AN,ja,INTJ
 *BE,og så øh for den ene han render sådan rundt å hele tiden skifter,CCONJ ADV NOUN ADP DET ADJ PRON VERB ADV ADV ADP ADJ NOUN VERB
-skjorte  ∙mt m skal jeg have den hvide skjorte på med knapperne,,
-eller skal jeg have den med den dybe V hals på sådan virkelig,,
-å så,,
+,skjorte  ∙mt m skal jeg have den hvide skjorte på med knapperne,VERB SPACE ADJ NOUN AUX PRON VERB DET ADJ NOUN ADV ADP NOUN
+,eller skal jeg have den med den dybe V hals på sådan virkelig,CCONJ AUX PRON VERB PRON ADP DET ADJ PROPN NOUN ADP ADV PUNCT
+,å så,ADP ADV
 *AN,INGEN AF DEM ehhh hhe hhe hhe hhe,PRON ADP PRON NOUN ADV NOUN NOUN NOUN
 *BE,nej præcis hhh,NOUN ADV PROPN
 *AN,hh hhe h hhe,X NOUN X NOUN
 *BE,host å så,NOUN ADP ADV
 *BE,altså normal kutyme tænker jeg bare hvis man kommer  som den,ADV ADV ADJ VERB PRON ADV SCONJ PRON VERB SPACE ADP DET
-eneste person ind i et selskab der overhovedet ikke kender nogen,,
-så er det sådan social kutyme at man øh  øh sådan indlemmer,,
-vedkommende i det sociale fællesskab ikke,,
+,eneste person ind i et selskab der overhovedet ikke kender nogen,ADJ NOUN ADV ADP DET NOUN ADV NOUN ADV VERB PRON
+,så er det sådan social kutyme at man øh  øh sådan indlemmer,ADV AUX PRON ADV PROPN VERB SCONJ PRON VERB SPACE NOUN ADV NOUN
+,vedkommende i det sociale fællesskab ikke,NOUN ADP DET ADJ NOUN ADV
 *AN,ja ja,NOUN INTJ
 *BE,å jeg kendte jo kun Mikkel å Mikkel var også vildt sød å,ADP PRON VERB ADV ADV PROPN ADP PROPN AUX ADV ADV ADJ ADP
 *BE,å snakkede med mig å sådan noget der men de andre,ADP VERB ADP PRON ADP ADJ PRON ADV CCONJ DET ADJ
 *BE,hhh øh å så øh så sætter jeg mig sådan å så,DET NOUN ADP ADV NOUN ADV VERB PRON PRON ADV ADP ADV
 *BE,e så  der s-så finder jeg så ud af hvem det er der bor der ikke,NOUN ADV SPACE ADV ADV VERB PRON ADV ADV ADP PRON PRON VERB ADV NOUN ADV ADV
-å siger hej å sådan tak fordi jeg måtte komme,,
+,å siger hej å sådan tak fordi jeg måtte komme,PRON VERB NOUN ADP ADJ NOUN SCONJ PRON AUX VERB
 *BE,hh sådn  ah ja ja fint nok,NOUN NOUN SPACE DET NOUN X ADJ ADV
 *BE,jeg siger så nå m-  fed lejlighed  ellers ehhh hhe hhe,PRON VERB ADV VERB PRON SPACE NOUN NOUN SPACE ADV NOUN ADP NOUN
 *AN,hhhe,NOUN
 *AN,jeg tænkte sådan nå okay så starter med et kompliment så har det,PRON VERB ADJ VERB ADJ ADV VERB ADP DET NOUN ADV VERB PRON
-ligesom brudt iset å sådan noget ikke å,,
+,ligesom brudt iset å sådan noget ikke å,SCONJ VERB VERB ADP ADJ PRON ADV ADP
 *AN,fed skjorte,NOUN VERB
 *BE,det ja  fed skjorte hehe jeg kan faktisk godt lide den,DET INTJ SPACE NOUN VERB NOUN PRON AUX ADV ADV VERB PRON
 *AN,hehehehehehe,VERB
 *BE,med ve hals,ADP DET NOUN
 *AN,den er bedre den med ve hals aha ha ha ha,PRON AUX ADJ PRON ADP DET NOUN NOUN PRON X X
 *BE,he he he he he å så,X X X X PROPN ADP ADV
-øh  så siger han sådan øh ∙mt jamen tak jeg er også øh jeg er,,
-også lige flyttet ind,,
+,øh  så siger han sådan øh ∙mt jamen tak jeg er også øh jeg er,NOUN SPACE ADV VERB PRON ADJ NOUN NOUN CCONJ X PRON AUX ADV VERB PRON AUX
+,også lige flyttet ind,ADV ADV VERB ADV
 *BE,å det  ja det kan man godt se der er ikke så meget på,ADP DET SPACE NOUN PRON AUX PRON ADV VERB ADV VERB ADV ADV ADJ ADP
-væggene,,
+,væggene,NOUN
 *AN,∙mt nej,VERB NOUN
 *BE,det er der ikke,PRON VERB ADV ADV
 *BE,i stedet for så er han han er bare sådan helt han siger ikke sådan,ADP NOUN ADP ADV AUX PRON PRON AUX ADV ADV PRON PRON VERB ADV ADV
-noget nej men det der jeg har et maleri der skal op å hænge,,
-der eller sådan noget overhovedet ikke noget,,
+,noget nej men det der jeg har et maleri der skal op å hænge,DET NOUN CCONJ PRON ADV PRON VERB DET NOUN ADV AUX ADV ADP NOUN
+,der eller sådan noget overhovedet ikke noget,ADV CCONJ ADJ PRON ADV ADV DET
 *BE,så siger jeg sådan nå men øhm,ADV VERB PRON ADV VERB CCONJ ADV
 *BE,hva- k- hva hva koster den så sådan en,X X X X VERB PRON ADV ADJ DET
 *BE,den er rigtig rigtig fed jo,PRON AUX ADV ADJ VERB ADV
@@ -236,14 +236,14 @@ der eller sådan noget overhovedet ikke noget,,
 *AN,,
 *BE,sådan n,ADJ ADP
 *BE,nå okay så tænkte jeg sådan okay er det mig der har opført mig,VERB ADJ ADV VERB PRON ADV ADJ AUX PRON NOUN ADV AUX VERB PRON
-socialt uanstændigt nu fordi  det kan jo godt være at det er,,
-sådan det er nogen der ikke vil sige hva de tjener å sådan noget,,
-at han så ikke vil sige hva hans lejlighed kostede,,
+,socialt uanstændigt nu fordi  det kan jo godt være at det er,ADV ADJ ADV SCONJ SPACE PRON AUX ADV ADV VERB SCONJ PRON AUX
+,sådan det er nogen der ikke vil sige hva de tjener å sådan noget,ADJ PRON AUX PRON ADV ADV AUX VERB VERB PRON VERB ADP ADJ PRON
+,at han så ikke vil sige hva hans lejlighed kostede,SCONJ PRON ADV ADV AUX VERB VERB DET NOUN VERB
 *AN,ja ja,NOUN INTJ
 *BE,å så prøvede jeg sådan å sige noget til en af de andre sådan et,ADP ADV VERB PRON ADV ADP VERB PRON ADP PRON ADP DET ADJ ADJ DET
-eller andet,,
+,eller andet,CCONJ PRON
 *BE,men han sidder bare  m,CCONJ X VERB ADV SPACE X
-%com	BE vrænger ansigt sammen med m,,
+%com,BE vrænger ansigt sammen med m,PROPN NOUN NOUN ADV ADP NOUN
 *BE,m sådan å,X ADV ADP
 *AN,,
 *BE,okay,ADJ
@@ -254,69 +254,69 @@ eller andet,,
 *AN,hh hhe hhe  hhe,VERB NOUN NOUN SPACE NOUN
 *BE,jo jo hhe,ADV ADV NOUN
 *BE,jo jo nej nej det fak- nej var x så svært at komme ind,ADV ADV NOUN INTJ DET ADJ NOUN AUX ADV ADV ADJ PART VERB ADV
-på piger sådan til sådan et selskab,,
+,på piger sådan til sådan et selskab,ADP NOUN ADV ADP ADJ DET NOUN
 *AN,ja,INTJ
 *BE,her når man kommer der,ADV SCONJ PRON VERB ADV
 *AN,ja  det er det,INTJ SPACE PRON AUX PRON
 *BE,å,ADP
 *AN,du gik efter de sikre,PRON VERB ADP DET ADJ
 *BE,ja jeg tænkte sådan fyrene dem kan man da altid snakke med det,INTJ PRON VERB ADJ NOUN PRON AUX PRON ADV ADV VERB ADP PRON
-kunne man ikke,,
+,kunne man ikke,AUX PRON X
 *AN,eh hhe heller ikke,ADV ADV NOUN ADV
 *BE,ej å det værste var så f kom jeg faktisk i snak med en af pigerne,NOUN ADP DET ADJ VERB ADV ADV VERB PRON ADV ADP NOUN ADP PRON ADP NOUN
 *BE,å hun var vildt sød å sådan noget,ADP PRON AUX VERB ADJ ADP ADJ PRON
 *BE,ej men hun læste til fysioterapeut å det var bare å så snakkede,ADV CCONJ PRON VERB ADP NOUN ADP PRON AUX ADV ADP ADV VERB
-vi om studiet å sådan noget der,,
+,vi om studiet å sådan noget der,PRON ADP NOUN ADP ADJ PRON ADV
 *BE,de der fyre der de var bare helt blanke altså  der var bare ikke,PROPN ADV VERB ADV PRON AUX ADV DET NOUN ADV SPACE ADV AUX ADV ADV
-noget at komme efter,,
+,noget at komme efter,PRON PART VERB ADP
 *AN,er de alle sammen sådan nogen karatetype,AUX PRON ADJ ADV ADJ DET NOUN
-eller,,
+,eller,CCONJ
 *BE,nej nej det er kun Mikkel der  går til karate,NOUN INTJ PRON AUX ADV PROPN ADV SPACE VERB ADP NOUN
 *AN,er det ham jeg har mødt eller hva,AUX PRON PRON PRON AUX VERB CCONJ VERB
 *BE,ja,INTJ
 *AN,ham der er venner med Søren  var Søren der ikke,PRON ADV AUX NOUN ADP PROPN SPACE AUX PROPN ADV ADV
 *BE,nejnej,NOUN
-nejnejnej,,
+,nejnejnej,NOUN
 *AN,nej  nejnej,NOUN SPACE NOUN
 *BE,nej,NOUN
 *BE,nej men han kom også på Luux senere så,NOUN CCONJ PROPN VERB ADV ADP PROPN ADV ADV
 *BE,det  sødt x på L E bar hhhe,DET SPACE ADJ NOUN ADP PROPN PROPN ADJ ADV
-hhe,,
+,hhe,PROPN
 *AN,ehh hha hha ej,VERB X PROPN ADV
 *AN,ej det er dårligt stil,ADV PRON AUX ADJ NOUN
 *BE,ja,INTJ
 *AN,ej men det var faktisk helt vildt sjovt ude til den øh  til,ADV CCONJ PRON AUX ADV ADV ADV ADJ ADV ADP DET NOUN SPACE ADP
-den der fest bagefter,,
+,den der fest bagefter,PRON ADV NOUN ADV
 *AN,altså den revyfest der,ADV DET ADJ ADV
 *BE,det var helt hvad,PRON AUX ADV PRON
 *AN,altså det var faktisk helt vildt grineren i skulle bare være,ADV PRON AUX ADV ADV NOUN NOUN ADP AUX ADV AUX
-blevet,,
+,blevet,AUX
 *BE,host  det er bare også helt vildt nederen over fordi at  x,NOUN SPACE PRON AUX ADV ADV ADV NOUN NOUN ADP SCONJ SCONJ SPACE ADJ
-Ruså å Søren det var dem jeg havde aftalt at vi skulle i byen,,
+,Ruså å Søren det var dem jeg havde aftalt at vi skulle i byen,PROPN PROPN PROPN PRON AUX PRON PRON AUX VERB PART PROPN VERB ADP NOUN
 *BE,å Ruså  å jeg havde begge to ret mange tømmermænd i forvejen,ADP PROPN SPACE ADP PRON AUX PRON NUM ADV ADJ NOUN ADP NOUN
-fordi vi begge havde været i byen om fredagen,,
+,fordi vi begge havde været i byen om fredagen,SCONJ PRON PRON AUX VERB ADP NOUN ADP NOUN
 *AN,ja jeg var jo ligesom med,INTJ PRON VERB ADV SCONJ ADP
 *BE,øhm,ADV
 *BE,nåh ja,NOUN INTJ
 *AN,hm hm,ADV ADV
 *BE,og så øh,CCONJ ADV VERB
 *BE,min l- Ruså han sad sådan å begyndte sådan å hænge lidt under,DET X PROPN PRON VERB ADJ NOUN VERB ADJ ADP ADJ ADV ADP
-den der revy å sådan åh,,
+,den der revy å sådan åh,PRON ADV NOUN ADP ADJ INTJ
 *BE,tænkte bare sådan han bæller bare ikke nu,VERB ADV ADV PRON VERB ADV ADV ADV
 *BE,det gør han bare ikke,PRON VERB PRON ADV ADV
 *BE,å så sagde jamen det ville han heller ikke gøre å sådan noget,ADP ADV VERB CCONJ PRON AUX PRON ADV ADV VERB ADP ADJ PRON
 *BE,nåmen såh øh ville han bare men han ville have vi skulle,X ADJ NOUN AUX PRON ADV CCONJ PRON AUX VERB PRON AUX
-tage hurtig lige når revyen var slut så skulle vi tage  hjem til,,
-mig så kunne vi sidde der å drikke å sådan noget han gad ikke den,,
-til den fest å sådan noget der,,
+,tage hurtig lige når revyen var slut så skulle vi tage  hjem til,VERB ADJ ADV SCONJ NOUN AUX ADV ADV AUX PRON VERB SPACE NOUN ADP
+,mig så kunne vi sidde der å drikke å sådan noget han gad ikke den,PRON ADV AUX PRON VERB ADV ADP VERB ADP ADJ PRON PRON VERB ADV PRON
+,til den fest å sådan noget der,ADP DET NOUN ADP ADJ PRON ADV
 *AN,m,NOUN
 *BE,ah okay det var også fair nok,DET ADJ PRON AUX ADV ADJ ADV
 *BE,å så cykler vi e- x så GØR VI så får han sin v- for jeg ville,ADP ADV VERB PRON NUM ADP ADV NOUN PRON ADV VERB PRON DET NOUN CCONJ PRON AUX
-gerne blive lidt længere,,
+,gerne blive lidt længere,NOUN AUX ADV ADV
 *BE,men så får han sin vilje å vi kører,CCONJ ADV VERB PRON DET NOUN ADP PRON VERB
 *AN,m,X
 *BE,er stået der å han så siger så han ville lige hjem å skifte,AUX PROPN ADV ADP PRON ADV VERB ADV PRON AUX ADV ADV ADP NOUN
-skjorte,,
+,skjorte,PROPN
 *BE,inden at øh han k-så kom han bare hjem til mig ti minutter senere,ADP PART VERB PRON AUX VERB PRON ADV ADV ADP PRON NUM NOUN NOUN
 *BE,fair nok,NOUN ADV
 *BE,og så tager Søren å jeg så  hjem til mig å sidder,CCONJ ADV VERB NOUN PRON PRON ADV SPACE ADV ADP PRON ADP VERB
@@ -330,7 +330,7 @@ skjorte,,
 *BE,å så kan-,ADP ADV X
 *AN,nej,NOUN
 *BE,så er jeg ude h af stand til overtale ham eller stå du ved og,ADV AUX PRON VERB NOUN ADP NOUN ADP ADJ PRON CCONJ VERB PRON ADV CCONJ
-ligesom  appellere til ham i min fysiske person ikke,,
+,ligesom  appellere til ham i min fysiske person ikke,SCONJ SPACE NOUN ADP PRON ADP DET ADJ NOUN ADV
 *AN,ja                     ja,X SPACE INTJ
 *AN,og totalt nedgjorde ham,CCONJ ADV NOUN PRON
 *BE,host,NOUN
@@ -340,13 +340,13 @@ ligesom  appellere til ham i min fysiske person ikke,,
 *BE,det er jo det,PRON AUX ADV PRON
 *BE,å  så øh,ADP SPACE NOUN NOUN
 *AN,aj men det var helt vildt sjovt selvom folk bare blev pisse,NOUN CCONJ PRON AUX NUM ADV ADJ SCONJ NOUN ADV AUX NOUN
-pissestive allesammen,,
+,pissestive allesammen,ADJ NOUN
 *AN,å nogen havde taget deres egne hynder med ned i kælderen å,ADP PRON AUX VERB DET ADJ VERB ADV ADV ADP NOUN ADP
 *BE,nåh                                                  nå hhe,NOUN SPACE VERB NOUN
-hhe hhe,,
+,hhe hhe,ADV NOUN
 *AN,hh,NOUN
 *AN,men jeres  studie jeres årgang drikker altså mere end min årgang,CCONJ DET SPACE NOUN DET NOUN VERB ADV ADJ ADP DET NOUN
-tror jeg,,
+,tror jeg,VERB PRON
 *BE,så du så ikke revyen eller hva du sad da derop gjorde du ikke,VERB PRON ADV ADV NOUN CCONJ VERB PRON VERB ADV PRON VERB PRON ADV
 *AN,jo,ADV
 *BE,ah okay,DET ADJ
@@ -356,18 +356,18 @@ tror jeg,,
 *AN,eh han,ADV PRON
 *BE,eh he   hhe,ADV X SPACE PROPN
 *AN,altså godt kender jeg ham jo ikke men han,ADV ADV VERB PRON PRON ADV ADV CCONJ PRON
-han var da sådan rimelig,,
+,han var da sådan rimelig,PRON AUX ADV ADV ADJ
 *BE,nåh han er ok men,NOUN PRON AUX ADJ CCONJ
 *AN,markant i den,ADJ ADP PRON
 *AN,det var hele tiden ham der skulle stå å snakke å sådan,PRON AUX ADJ NOUN PRON ADV AUX VERB ADP ADV ADP ADV
 *BE,nåmen det var fint nok han sådan var toastmaster eller hva hedder,X PRON AUX ADJ ADV PRON ADV AUX NOUN CCONJ NOUN VERB
-sådan noget hva hva hedder det sådan noget,,
+,sådan noget hva hva hedder det sådan noget,ADJ PRON ADJ VERB VERB PRON ADJ PRON
 *AN,ja,INTJ
 *BE,ja ja men  for eksempel den der  madsketch der,PROPN INTJ CCONJ SPACE ADP NOUN PRON ADV SPACE NOUN ADV
 *BE,den var jo ikke sjov,PRON AUX ADV ADV NOUN
 *AN,ej jeg var ved at brække mig  ad,ADV PRON VERB ADP PART VERB PRON SPACE ADP
 *BE,den,PRON
-var jo den var jo ikke sjov den var  den var jo ulækker,,
+,var jo den var jo ikke sjov den var  den var jo ulækker,AUX ADV PRON AUX ADV ADV VERB PRON AUX SPACE PRON AUX ADV VERB
 *AN,det var rigtigt Bec-,PRON AUX ADJ PROPN
 *BE,men den var jo ikke sjov,CCONJ PRON AUX ADV ADV NOUN
 *AN,de hav- det var rigtig Becel de drak,DET X PRON AUX ADV ADJ PRON PROPN
@@ -383,7 +383,7 @@ var jo den var jo ikke sjov den var  den var jo ulækker,,
 *AN,aj men det var virkelig ulækkert,NOUN CCONJ PRON AUX ADV ADJ
 *BE,ja,INTJ
 *AN,hold kæft jeg synes det var godt de andre  altså,NOUN AUX PRON VERB PRON AUX ADJ PRON PRON SPACE ADV
-sådan Anders Fogh  gjorde det var helt vildt godt,,
+,sådan Anders Fogh  gjorde det var helt vildt godt,ADJ PROPN PROPN SPACE VERB PRON AUX NUM NOUN ADV
 *BE,og hajet fra hva hedder det Jonatan,CCONJ NOUN ADP ADJ VERB PRON NOUN
 *AN,han var så god,PRON AUX PROPN ADJ
 *BE,fuck hvor var han sjov,NOUN ADV AUX PRON NOUN

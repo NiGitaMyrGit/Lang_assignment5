@@ -1,531 +1,532 @@
 @UTF8
+@Window:	92_135_715_1018_-1_-1_282_0_282_0
 
 
-*AN:	havde du egentlig øh nået a lave dine feature
+*AN	:havde du egentlig øh nået a lave dine feature
 
-*BE:	jo  okay
+*BE	:jo  okay
 
-*BE:	m  faktisk starter med  jeg ligger om aftenen på min seng
+*BE	:m  faktisk starter med  jeg ligger om aftenen på min seng
 
-*BE:	å så tænker jeg hva fanden jeg skal lave den her øh feature om
+*BE	:å så tænker jeg hva fanden jeg skal lave den her øh feature om
 
 
-*BE:	å så lige pludselig så  kommer det bare  som altså
-	 slam  skrald  skal lave en feature om skrald
+*BE	:å så lige pludselig så  kommer det bare  som altså
+	: slam  skrald  skal lave en feature om skrald
 
-*BE:	øhm  å så ringer jeg dagen efter til øh  hva
-	hedder det Odense  Odense renovering  nej ikke
-	renovering  Odense øhm
-*AN:	skrald service
+*BE	:øhm  å så ringer jeg dagen efter til øh  hva
+	:hedder det Odense  Odense renovering  nej ikke
+	:renovering  Odense øhm
+*AN	:skrald service
 
-*BE:	renovation
+*BE	:renovation
 
-*BE:	hedder det ikke det
+*BE	:hedder det ikke det
 
-*BE:	renovationsmedarbejder  jo
-*AN:	så meget skrald har jeg slet ikke
-*BE:	nej okay
+*BE	:renovationsmedarbejder  jo
+*AN	:så meget skrald har jeg slet ikke
+*BE	:nej okay
 
-*BE:	Øh Odense renovationsselskab
+*BE	:Øh Odense renovationsselskab
 
-*AN:	hja
-*BE:	å så får jeg deres kommunikationschef øh i røret å siger så men
-	hva hva sker der lige på området med skrald har du ikke nogen
-	god historie
+*AN	:hja
+*BE	:å så får jeg deres kommunikationschef øh i røret å siger så men
+	:hva hva sker der lige på området med skrald har du ikke nogen
+	:god historie
 
-*BE:	øh å så snakker han  om hid å did å
+*BE	:øh å så snakker han  om hid å did å
 
-*BE:	så var jeg nødt til a afbryde ham å sige jamen kan jeg ikke
-	komme med ud på sådan en skralde  bil å køre
+*BE	:så var jeg nødt til a afbryde ham å sige jamen kan jeg ikke
+	:komme med ud på sådan en skralde  bil å køre
 
-*BE:	å så siger han jo jo så er det klokken halv syv du skal være
-	her så
+*BE	:å så siger han jo jo så er det klokken halv syv du skal være
+	:her så
 
-*BE:	så jeg kan måske komme ud på en genbrugsstation
-*AN:	                                                 ehh  hhe hhe
-	hhe
-*BE:	hhh å være i stedet for
+*BE	:så jeg kan måske komme ud på en genbrugsstation
+*AN	:                                                 ehh  hhe hhe
+	:hhe
+*BE	:hhh å være i stedet for
 
-*BE:	jo  jamen der var faktisk en genbrugsstation hvor der
-	arbejdede to kvinder
+*BE	:jo  jamen der var faktisk en genbrugsstation hvor der
+	:arbejdede to kvinder
 
-*BE:	å så kunne jeg så lave en feature om øh  sådan nogen sådan
-	noget blå mænd  så noget
+*BE	:å så kunne jeg så lave en feature om øh  sådan nogen sådan
+	:noget blå mænd  så noget
 
-*AN:	kvinder eller øh         ja
-*BE:	        kvindelige skraldemænd
-*BE:	kvindelige skraldemænd ja
+*AN	:kvinder eller øh         ja
+*BE	:        kvindelige skraldemænd
+*BE	:kvindelige skraldemænd ja
 
-*BE:	øh det fik jeg så lov til
-*BE:	men så øh  reagerede han så å sagde at øh de var ikke på
-	arbejde
+*BE	:øh det fik jeg så lov til
+*BE	:men så øh  reagerede han så å sagde at øh de var ikke på
+	:arbejde
 
-*BE:	den søndag hvor jeg ville gøre det
-*BE:	 de var først på arbejde på næste søndag
+*BE	:den søndag hvor jeg ville gøre det
+*BE	: de var først på arbejde på næste søndag
 
-	 å den skulle afleveres tirsdag så  derfor så har jeg ikke
-	fået den lavet
+	: å den skulle afleveres tirsdag så  derfor så har jeg ikke
+	:fået den lavet
 
-*AN:	kunne du ikke få rykket øh  din aflevering
-*BE:	host  m m
+*AN	:kunne du ikke få rykket øh  din aflevering
+*BE	:host  m m
 
-*BE:	Jesper øh Stollemann han skrev til Bent Muk sådan et lang lang
-	med- altså en eller andet sådan sindsyg  fed god undskyldning han
-	virkelig sådan havde brugt tid på at konstruere
-*BE:	 han fik bare  sådan no way der ikke nogen der får øh
-	dispensation
+*BE	:Jesper øh Stollemann han skrev til Bent Muk sådan et lang lang
+	:med- altså en eller andet sådan sindsyg  fed god undskyldning han
+	:virkelig sådan havde brugt tid på at konstruere
+*BE	: han fik bare  sådan no way der ikke nogen der får øh
+	:dispensation
 
-*AN:	så nu har du bare ikke afleveret noget
+*AN	:så nu har du bare ikke afleveret noget
 
-*BE:	jo jo men jeg skal bare aflevere den senere men jeg får ikke
-	feedback på den nu skal jeg bare lave den uden at jeg  får
-	noget feedback på den
-*BE:	jeg skal aflevere den for at komme til eksamen
+*BE	:jo jo men jeg skal bare aflevere den senere men jeg får ikke
+	:feedback på den nu skal jeg bare lave den uden at jeg  får
+	:noget feedback på den
+*BE	:jeg skal aflevere den for at komme til eksamen
 
-*AN:	det er en obligatorisk en
-*BE:	host m
+*AN	:det er en obligatorisk en
+*BE	:host m
 
-*AN:	ej øv
+*AN	:ej øv
 
-*AN:	nåmen laver du så om de der skralde bøv skraldekvinder
-*BE:	jah det ved jeg ikke
+*AN	:nåmen laver du så om de der skralde bøv skraldekvinder
+*BE	:jah det ved jeg ikke
 
-*BE:	det kan også være jeg bare  laver et eller andet interview
-	 med nogen
-*BE:	jeg kan interviewe dig
+*BE	:det kan også være jeg bare  laver et eller andet interview
+	: med nogen
+*BE	:jeg kan interviewe dig
 
-*AN:	ja  jeg har enormt mange spændende ting der sker i mit liv
-	lige nu  hhhe
-*BE:	      ehh mhm nhi hi  host
-*AN:
+*AN	:ja  jeg har enormt mange spændende ting der sker i mit liv
+	:lige nu  hhhe
+*BE	:      ehh mhm nhi hi  host
+*AN
 
-*AN:	næh  det ved jeg ikke hva jeg skal snakke om
-*BE:
-*BE:	          hhe       hhhh      hhhh
-
-*AN:	det er hårdt at være kvinde  i dagens Danmark
-*BE:	ne      hehe he
-
-*BE:	  ja
-
-*AN:	nå men det var da helt vildt ærgeligt
-
-*BE:	HALLO HVA SKETE DER egentli- okay
-
-*BE:	hva skete der egentlig for at øh  du blev væk fra mig
-	i øh  fredags
-
-*BE:	lørdags
-
-*AN:	nej hva sker der for at du skred
-*AN:	å tog hjem til  din  du tog hjem med dine venner
-*AN:	å ville have jeg skulle komme
-*AN:	 å så tager du hen til dine karatevenner
-*AN:	å så tager i på Luux  uden at sige det til mig
-
-*BE:	det var da ikke sådan det foregik
-*AN:	jo  prøv å hør sådan her foreg- nu skal jeg fortælle
-*BE:	        prøv ogå hør her
-*AN:	 dig hvordan det foregik
-
-*AN:	du tog hjem å sagde så kom hjem til mig så sidder vi å drikker
-	der
-*AN:	 så ringer jeg til dig
-*AN:	Beate skal jeg komme hjem til dig
-*AN:	 nej vi er de er er allesammen gået
-*AN:	 så jeg tager ned til mine senpaier
-
-*AN:	og så tænkte jeg okay
-*AN:	h så du skal stadig komme Anne
-*AN:	okay det er fint jeg skal bare have noget at spise å så
-*AN:	h hva  siger til dig
-*AN:	h i kan bare gå derned det er helt i orden
-*AN:	 men bare lige ring hvis i går
-*AN:	fordi jeg gider ikke gå ned på Lux alene
-*AN:	h å så
-*AN:	 så siger du nejnej jeg er stadig bare skynd dig
-*AN:	h å så  gør jeg mig klar
-
-*AN:	ser  lidt bedre ud end jeg gjorde hehehe før
-*BE:	                                        hhn hhn hhn
-*BE:	fik lige gjort mig klar
-*BE:	 å så  ringer jeg til dig å så råber du bare ∇vi
-	tager på Luux∇
-
-*BE:	host
-*BE:	jeg stod inde
-
-*BE:	jeg stod inde ved jakkerne jeg var lige lagt min jakke
-
-*BE:	å så ringer du å jeg kunne overhovedet ikke høre hva du siger
-
-*BE:	å så siger du vi er på Lux å så siger du ja
-*BE:	øh prøv lige å komme å hent mig
-*AN:	nej det var ikke der jeg sagde
-*BE:
-*AN:	 Ej nå jeg troede i var jeg troede i var lige ved siden af mig
-	jeg troede i var lige herovre
-
-*BE:	ja  å så sagde jeg nej men vi er der vi er ikke lige på Luux
-	men der er jo ikke særlig langt det er jo det samme jo
-
-*BE:	å så
-*AN:	ja men jeg gider da ikke være alene heller
-*BE:	                           nejnej  nejnej
-*AN:	så ligner jeg sådan en før-
-*AN:	for det første så er det sådan et popsted som hh man ikke måske
-	ville tage hen lige meget hvad
-*AN:	e- men noget andet er jeg vil gerne tage derhen med dig men å kom
-	∇alene∇
-
-*AN:	hen til en masse piger der kun har be håer på
-*AN:	 så ville jeg virkelig føle mig alt for påklædt å taberagtig
-	hvis jeg kom alene på  Luux
-*BE:	mhm ∙mf
-*BE:	nå okay men altså så ringer du å jeg sagde rigtig mange gange til
-	dig at du skulle komme
-
-*BE:	på Luux å det ville du ikke
-
-*BE:	å  ja
-*AN:	      så faldt jeg i søvn
-
-*BE:	gjorde du
-*BE:	nå okay for jeg troede nemlig jeg tænkte at jeg  øh var helt
-	vildt led nu fordi at så glemte jeg h ha
-*AN:	                                         hh
-*BE:	 så glemte jeg at  du havde haft ringet fordi at jeg var ved at
-	være sådan rimlig vissen
-*BE:	h så øh  å så t-kiggede jeg på min telefon senere å så havde
-	du skreven en besked med kom ned til Magasin
-
-*AN:	ehe å der stod jeg bare hele natten
-*BE:	                               NEJ NEJ  det vidste jeg
-	godt du ikke gjorde men så tænkte jeg bare  nå okay så er hun bare
-	vildt sur nu fordi at øh det er jeg jo ikke
-
-*BE:	men jeg ville jo heller ikke x da heller ikke gå ned til Magasin
-	og hente dig
-*AN:
-%com	AN rømmer sig
-
-*AN:	det ligger squ da lige ved siden af Magasin
-*BE:	ja ja  men altså der er jo s- k- ø- kunne du ikke høre hva jeg
-	sagde i telefonen
-
-*AN:	x at du ikke ville gå hen på Magasin
-*BE:	                                     ja jeg sagde prøv
-	og hør jeg har lige jeg har lige snydt mig ind  jeg har
-	lige sprunget over køen altså jeg er herinde
-*AN:	                                  det sagde du altså ikke
-*BE:	jO
-
-*AN:	nå oka-  men det er også lige meget for så faldt jeg i søvn
-
-*AN:	så øh
-
-*AN:	nej så det gjorde jeg faktisk ikke så ringede jeg til Gitte å til
-	Sara å til Lene
-
-*AN:	å til Malene
-
-*AN:	å til alle h for at høre om de ville med mig i- ej hvor
-	nederen
-*BE:	    vil i med på Luux  he he ha ha
-*AN:	                                     nej det lyder bare som om
-	der ikke er nogen der vil med mig i byen
-*BE:	                        ehh hhe  h
-*AN:	men så var alle lavede et eller andet så var jeg bare sådan
-	 pfh  nå
-%com	AN trækker på skuldrene mens hun siger pf
-
-*AN:	så gider jeg ikke jeg kender jo heller ikke de der karate
-*BE:	     what ever hi hi hi
-*AN:	 guys
-
-*AN:	så  jeg tænkte det er fint så lægger jeg mig til at sove
-
-*AN:	så det gjorde jeg
-
-*BE:	nå men hvis det kan trøste dig så var de også sådan lidt øh
-	i-ikke Mikkel selvfølgelig men de der hans venner der
-
-*AN:	hm
-
-*BE:	lidt nederen sniff jeg kommer ned til den der lejlighed der
-
-*BE:	å så sidder der de her fyre  å de alle sammen sådan vildt sådan
-
-%com	BE viser nogle forskellige udtryk med ansigtet og kroppen
-*BE:	sådan ja sådan hvordan s- du ved Luux agtige
-
-*AN:	ja
-*BE:	og så øh for den ene han render sådan rundt å hele tiden skifter
-	skjorte  ∙mt m skal jeg have den hvide skjorte på med knapperne
-	eller skal jeg have den med den dybe V hals på sådan virkelig
-	å så
-*AN:	INGEN AF DEM ehhh hhe hhe hhe hhe
-*BE:	nej præcis hhh
-*AN:	hh hhe h hhe
-
-*BE:	host å så
-
-*BE:	altså normal kutyme tænker jeg bare hvis man kommer  som den
-	eneste person ind i et selskab der overhovedet ikke kender nogen
-	så er det sådan social kutyme at man øh  øh sådan indlemmer
-	vedkommende i det sociale fællesskab ikke
-*AN:	                          ja ja
-*BE:	å jeg kendte jo kun Mikkel å Mikkel var også vildt sød å
-
-*BE:	å snakkede med mig å sådan noget der men de andre
-*BE:	hhh øh å så øh så sætter jeg mig sådan å så
-
-*BE:	e så  der s-så finder jeg så ud af hvem det er der bor der ikke
-	å siger hej å sådan tak fordi jeg måtte komme
-*BE:	hh sådn  ah ja ja fint nok
-
-*BE:	jeg siger så nå m-  fed lejlighed  ellers ehhh hhe hhe
-*AN:	                                                  hhhe
-*AN:	jeg tænkte sådan nå okay så starter med et kompliment så har det
-	ligesom brudt iset å sådan noget ikke å
-*AN:	fed skjorte
-*BE:	    det ja  fed skjorte hehe jeg kan faktisk godt lide den
-*AN:	              hehehehehehe
-*BE:	 med ve hals
-*AN:	          den er bedre den med ve hals aha ha ha ha
-*BE:	                                  he he he he he å så
-	øh  så siger han sådan øh ∙mt jamen tak jeg er også øh jeg er
-	også lige flyttet ind
-
-*BE:	å det  ja det kan man godt se der er ikke så meget på
-	væggene
-*AN:	∙mt nej
-*BE:	det er der ikke
-
-*BE:	i stedet for så er han han er bare sådan helt han siger ikke sådan
-	noget nej men det der jeg har et maleri der skal op å hænge
-	der eller sådan noget overhovedet ikke noget
-
-*BE:	så siger jeg sådan nå men øhm
-
-*BE:	hva- k- hva hva koster den så sådan en
-*BE:	den er rigtig rigtig fed jo
-*BE:	hva koster den ehe
-
-*BE:	ja den er ret dyr
-
-*BE:	siger han så bare
-
-*BE:	og der var bare overhovedet ikke noget at komme efter å der car
-*AN:
-*BE:	 sådan n
-
-*BE:	nå okay så tænkte jeg sådan okay er det mig der har opført mig
-	socialt uanstændigt nu fordi  det kan jo godt være at det er
-	sådan det er nogen der ikke vil sige hva de tjener å sådan noget
-	at han så ikke vil sige hva hans lejlighed kostede
-*AN:	ja ja
-
-*BE:	å så prøvede jeg sådan å sige noget til en af de andre sådan et
-	eller andet
-
-*BE:	men han sidder bare  m
-%com	BE vrænger ansigt sammen med m
-
-*BE:	m sådan å
-*AN:
-*BE:	okay
-*AN:	var der kun fyre
-
-*BE:	nej der var også nogle piger imellem
-
-*AN:	du er ikke så god til at komme ind på pigerne
-*BE:	                                       eHh hhe hhe
-*AN:	hh hhe hhe  hhe
-*BE:	   jo jo hhe
-*BE:	jo jo nej nej det fak- nej var x så svært at komme ind
-	på piger sådan til sådan et selskab
-*AN:	ja
-*BE:	 her når man kommer der
-*AN:	   ja  det er det
-
-*BE:	å
-*AN:	du gik efter de sikre
-
-*BE:	ja jeg tænkte sådan fyrene dem kan man da altid snakke med det
-	kunne man ikke
-*AN:	          eh hhe heller ikke
-
-*BE:	ej å det værste var så f kom jeg faktisk i snak med en af pigerne
-*BE:	 å hun var vildt sød å sådan noget
-*BE:	ej men hun læste til fysioterapeut å det var bare å så snakkede
-	vi om studiet å sådan noget der
-
-*BE:	de der fyre der de var bare helt blanke altså  der var bare ikke
-	noget at komme efter
-*AN:	               er de alle sammen sådan nogen karatetype
-	eller
-*BE:	nej nej det er kun Mikkel der  går til karate
-
-*AN:	er det ham jeg har mødt eller hva
-
-*BE:	ja
-
-*AN:	ham der er venner med Søren  var Søren der ikke
-
-*BE:	nejnej
-
-	nejnejnej
-*AN:	nej  nejnej
-*BE:	 nej
-
-*BE:	nej men han kom også på Luux senere så
-
-*BE:	det  sødt x på L E bar hhhe
-	hhe
-*AN:	ehh hha hha ej
-*AN:	ej det er dårligt stil
-*BE:	ja
-
-*AN:	ej men det var faktisk helt vildt sjovt ude til den øh  til
-	den der fest bagefter
-
-*AN:	altså den revyfest der
-
-*BE:	det var helt hvad
-*AN:	altså det var faktisk helt vildt grineren i skulle bare være
-	blevet
-*BE:	host  det er bare også helt vildt nederen over fordi at  x
-	Ruså å Søren det var dem jeg havde aftalt at vi skulle i byen
-
-*BE:	å Ruså  å jeg havde begge to ret mange tømmermænd i forvejen
-	fordi vi begge havde været i byen om fredagen
-
-*AN:	ja jeg var jo ligesom med
-*BE:	øhm
-*BE:	nåh ja
-*AN:	hm hm
-*BE:	og så øh
-
-*BE:	min l- Ruså han sad sådan å begyndte sådan å hænge lidt under
-	den der revy å sådan åh
-
-*BE:	tænkte bare sådan han bæller bare ikke nu
-*BE:	det gør han bare ikke
-*BE:	å så sagde jamen det ville han heller ikke gøre å sådan noget
-
-*BE:	nåmen såh øh ville han bare men han ville have vi skulle
-	tage hurtig lige når revyen var slut så skulle vi tage  hjem til
-	mig så kunne vi sidde der å drikke å sådan noget han gad ikke den
-	til den fest å sådan noget der
-*AN:	m
-*BE:	ah okay det var også fair nok
-
-*BE:	å så cykler vi e- x så GØR VI så får han sin v- for jeg ville
-	gerne blive lidt længere
-*BE:	men så får han sin vilje å vi kører
-*AN:	    m
-
-*BE:	er stået der å han så siger så han ville lige hjem å skifte
-	skjorte
-
-*BE:	inden at øh han k-så kom han bare hjem til mig ti minutter senere
-*BE:	 fair nok
-
-*BE:	og så tager Søren å jeg så  hjem til mig å sidder
-
-*BE:	og så skriver Ruså selvfølgelig beskeden med
-*AN:	ja
-*BE:	eu jeg bliver hjemme jeg kan ikke
-*BE:	å så å SÅ ER HAN JO NEJ FORDI SÅ ER HAN JO TAGET HJEM
-*AN:
-*BE:	så kan man ikke sådan sige kom herhen eller sådan noget
-*AN:	 hnn
-*BE:	å så kan-
-*AN:	  nej
-*BE:	så er jeg ude h af stand til overtale ham eller stå du ved og
-	ligesom  appellere til ham i min fysiske person ikke
-*AN:	      ja                     ja
-*AN:	og totalt nedgjorde ham
-*BE:	                         host
-
-*AN:	ide til
-*BE:	          ja
-
-*BE:	det er jo det
-
-*BE:	det er jo det
-
-*BE:	        å  så øh
-*AN:	aj men det var helt vildt sjovt selvom folk bare blev pisse
-	pissestive allesammen
-
-*AN:	å nogen havde taget deres egne hynder med ned i kælderen å
-*BE:	   nåh                                                  nå hhe
-	hhe hhe
-*AN:	hh
-*AN:	men jeres  studie jeres årgang drikker altså mere end min årgang
-	tror jeg
-
-*BE:	så du så ikke revyen eller hva du sad da derop gjorde du ikke
-*AN:	                                         jo
-*BE:	ah okay
-
-*AN:	den var pissegod
-
-*BE:	ja der er måske også rimelige meget Thomas Metts i den
-
-*AN:	ja
-
-*AN:	eh han
-*BE:	       eh he   hhe
-*AN:	                    altså godt kender jeg ham jo ikke men han
-	han var da sådan rimelig
-*BE:	                     nåh han er ok men
-*AN:	 markant i den
-*AN:	 det var hele tiden ham der skulle stå å snakke å sådan
-*BE:	nåmen det var fint nok han sådan var toastmaster eller hva hedder
-	sådan noget hva hva hedder det sådan noget
-
-*AN:	ja
-*BE:	ja ja men  for eksempel den der  madsketch der
-
-*BE:	den var jo ikke sjov
-*AN:	                   ej jeg var ved at brække mig  ad
-*BE:	                                                       den
-	var jo den var jo ikke sjov den var  den var jo ulækker
-*AN:	                        det var rigtigt Bec-
-*BE:	 men den var jo ikke sjov
-*AN:	de hav- det var rigtig Becel de drak
-
-*BE:	ja ja men det var jo
-*AN:	                  rej det ikk rigtig ketchup rigtig øh
-*BE:
-
-*AN:	ah men det var så klamt også bare da jeg så billedet var jeg
-*BE:
-*AN:	 ved at brække mig igen
-
-*BE:	ja
-*AN:	tænk at hun havde drukket  et blended flute med Becel
-*AN:	altså det var totalt klamt
-
-*AN:	aj men det var virkelig ulækkert
-
-*BE:	ja
-*AN:	hold kæft jeg synes det var godt de andre  altså
-	sådan Anders Fogh  gjorde det var helt vildt godt
-
-*BE:	og hajet fra hva hedder det Jonatan
-*AN:	han var så god
-*BE:	            fuck hvor var han sjov
-*AN:	så god som den gamle prins
-*BE:	   ejej jej jej
-*BE:	ja
-*AN:	 kæft hvo-
-
-*AN:	å å som Anders Samuelsen
-*BE:
-*BE:	ja å den der edderkop ah hhe
-*AN:
+*AN	:næh  det ved jeg ikke hva jeg skal snakke om
+*BE
+*BE	:          hhe       hhhh      hhhh
+
+*AN	:det er hårdt at være kvinde  i dagens Danmark
+*BE	:ne      hehe he
+
+*BE	:  ja
+
+*AN	:nå men det var da helt vildt ærgeligt
+
+*BE	:HALLO HVA SKETE DER egentli- okay
+
+*BE	:hva skete der egentlig for at øh  du blev væk fra mig
+	:i øh  fredags
+
+*BE	:lørdags
+
+*AN	:nej hva sker der for at du skred
+*AN	:å tog hjem til  din  du tog hjem med dine venner
+*AN	:å ville have jeg skulle komme
+*AN	: å så tager du hen til dine karatevenner
+*AN	:å så tager i på Luux  uden at sige det til mig
+
+*BE	:det var da ikke sådan det foregik
+*AN	:jo  prøv å hør sådan her foreg- nu skal jeg fortælle
+*BE	:        prøv ogå hør her
+*AN	: dig hvordan det foregik
+
+*AN	:du tog hjem å sagde så kom hjem til mig så sidder vi å drikker
+	:der
+*AN	: så ringer jeg til dig
+*AN	:Beate skal jeg komme hjem til dig
+*AN	: nej vi er de er er allesammen gået
+*AN	: så jeg tager ned til mine senpaier
+
+*AN	:og så tænkte jeg okay
+*AN	:h så du skal stadig komme Anne
+*AN	:okay det er fint jeg skal bare have noget at spise å så
+*AN	:h hva  siger til dig
+*AN	:h i kan bare gå derned det er helt i orden
+*AN	: men bare lige ring hvis i går
+*AN	:fordi jeg gider ikke gå ned på Lux alene
+*AN	:h å så
+*AN	: så siger du nejnej jeg er stadig bare skynd dig
+*AN	:h å så  gør jeg mig klar
+
+*AN	:ser  lidt bedre ud end jeg gjorde hehehe før
+*BE	:                                        hhn hhn hhn
+*BE	:fik lige gjort mig klar
+*BE	: å så  ringer jeg til dig å så råber du bare ∇vi
+	:tager på Luux∇
+
+*BE	:host
+*BE	:jeg stod inde
+
+*BE	:jeg stod inde ved jakkerne jeg var lige lagt min jakke
+
+*BE	:å så ringer du å jeg kunne overhovedet ikke høre hva du siger
+
+*BE	:å så siger du vi er på Lux å så siger du ja
+*BE	:øh prøv lige å komme å hent mig
+*AN	:nej det var ikke der jeg sagde
+*BE
+*AN	: Ej nå jeg troede i var jeg troede i var lige ved siden af mig
+	:jeg troede i var lige herovre
+
+*BE	:ja  å så sagde jeg nej men vi er der vi er ikke lige på Luux
+	:men der er jo ikke særlig langt det er jo det samme jo
+
+*BE	:å så
+*AN	:ja men jeg gider da ikke være alene heller
+*BE	:                           nejnej  nejnej
+*AN	:så ligner jeg sådan en før-
+*AN	:for det første så er det sådan et popsted som hh man ikke måske
+	:ville tage hen lige meget hvad
+*AN	:e- men noget andet er jeg vil gerne tage derhen med dig men å kom
+	:∇alene∇
+
+*AN	:hen til en masse piger der kun har be håer på
+*AN	: så ville jeg virkelig føle mig alt for påklædt å taberagtig
+	:hvis jeg kom alene på  Luux
+*BE	:mhm ∙mf
+*BE	:nå okay men altså så ringer du å jeg sagde rigtig mange gange til
+	:dig at du skulle komme
+
+*BE	:på Luux å det ville du ikke
+
+*BE	:å  ja
+*AN	:      så faldt jeg i søvn
+
+*BE	:gjorde du
+*BE	:nå okay for jeg troede nemlig jeg tænkte at jeg  øh var helt
+	:vildt led nu fordi at så glemte jeg h ha
+*AN	:                                         hh
+*BE	: så glemte jeg at  du havde haft ringet fordi at jeg var ved at
+	:være sådan rimlig vissen
+*BE	:h så øh  å så t-kiggede jeg på min telefon senere å så havde
+	:du skreven en besked med kom ned til Magasin
+
+*AN	:ehe å der stod jeg bare hele natten
+*BE	:                               NEJ NEJ  det vidste jeg
+	:godt du ikke gjorde men så tænkte jeg bare  nå okay så er hun bare
+	:vildt sur nu fordi at øh det er jeg jo ikke
+
+*BE	:men jeg ville jo heller ikke x da heller ikke gå ned til Magasin
+	:og hente dig
+*AN
+%com	:AN rømmer sig
+
+*AN	:det ligger squ da lige ved siden af Magasin
+*BE	:ja ja  men altså der er jo s- k- ø- kunne du ikke høre hva jeg
+	:sagde i telefonen
+
+*AN	:x at du ikke ville gå hen på Magasin
+*BE	:                                     ja jeg sagde prøv
+	:og hør jeg har lige jeg har lige snydt mig ind  jeg har
+	:lige sprunget over køen altså jeg er herinde
+*AN	:                                  det sagde du altså ikke
+*BE	:jO
+
+*AN	:nå oka-  men det er også lige meget for så faldt jeg i søvn
+
+*AN	:så øh
+
+*AN	:nej så det gjorde jeg faktisk ikke så ringede jeg til Gitte å til
+	:Sara å til Lene
+
+*AN	:å til Malene
+
+*AN	:å til alle h for at høre om de ville med mig i- ej hvor
+	:nederen
+*BE	:    vil i med på Luux  he he ha ha
+*AN	:                                     nej det lyder bare som om
+	:der ikke er nogen der vil med mig i byen
+*BE	:                        ehh hhe  h
+*AN	:men så var alle lavede et eller andet så var jeg bare sådan
+	: pfh  nå
+%com	:AN trækker på skuldrene mens hun siger pf
+
+*AN	:så gider jeg ikke jeg kender jo heller ikke de der karate
+*BE	:     what ever hi hi hi
+*AN	: guys
+
+*AN	:så  jeg tænkte det er fint så lægger jeg mig til at sove
+
+*AN	:så det gjorde jeg
+
+*BE	:nå men hvis det kan trøste dig så var de også sådan lidt øh
+	:i-ikke Mikkel selvfølgelig men de der hans venner der
+
+*AN	:hm
+
+*BE	:lidt nederen sniff jeg kommer ned til den der lejlighed der
+
+*BE	:å så sidder der de her fyre  å de alle sammen sådan vildt sådan
+
+%com	:BE viser nogle forskellige udtryk med ansigtet og kroppen
+*BE	:sådan ja sådan hvordan s- du ved Luux agtige
+
+*AN	:ja
+*BE	:og så øh for den ene han render sådan rundt å hele tiden skifter
+	:skjorte  ∙mt m skal jeg have den hvide skjorte på med knapperne
+	:eller skal jeg have den med den dybe V hals på sådan virkelig
+	:å så
+*AN	:INGEN AF DEM ehhh hhe hhe hhe hhe
+*BE	:nej præcis hhh
+*AN	:hh hhe h hhe
+
+*BE	:host å så
+
+*BE	:altså normal kutyme tænker jeg bare hvis man kommer  som den
+	:eneste person ind i et selskab der overhovedet ikke kender nogen
+	:så er det sådan social kutyme at man øh  øh sådan indlemmer
+	:vedkommende i det sociale fællesskab ikke
+*AN	:                          ja ja
+*BE	:å jeg kendte jo kun Mikkel å Mikkel var også vildt sød å
+
+*BE	:å snakkede med mig å sådan noget der men de andre
+*BE	:hhh øh å så øh så sætter jeg mig sådan å så
+
+*BE	:e så  der s-så finder jeg så ud af hvem det er der bor der ikke
+	:å siger hej å sådan tak fordi jeg måtte komme
+*BE	:hh sådn  ah ja ja fint nok
+
+*BE	:jeg siger så nå m-  fed lejlighed  ellers ehhh hhe hhe
+*AN	:                                                  hhhe
+*AN	:jeg tænkte sådan nå okay så starter med et kompliment så har det
+	:ligesom brudt iset å sådan noget ikke å
+*AN	:fed skjorte
+*BE	:    det ja  fed skjorte hehe jeg kan faktisk godt lide den
+*AN	:              hehehehehehe
+*BE	: med ve hals
+*AN	:          den er bedre den med ve hals aha ha ha ha
+*BE	:                                  he he he he he å så
+	:øh  så siger han sådan øh ∙mt jamen tak jeg er også øh jeg er
+	:også lige flyttet ind
+
+*BE	:å det  ja det kan man godt se der er ikke så meget på
+	:væggene
+*AN	:∙mt nej
+*BE	:det er der ikke
+
+*BE	:i stedet for så er han han er bare sådan helt han siger ikke sådan
+	:noget nej men det der jeg har et maleri der skal op å hænge
+	:der eller sådan noget overhovedet ikke noget
+
+*BE	:så siger jeg sådan nå men øhm
+
+*BE	:hva- k- hva hva koster den så sådan en
+*BE	:den er rigtig rigtig fed jo
+*BE	:hva koster den ehe
+
+*BE	:ja den er ret dyr
+
+*BE	:siger han så bare
+
+*BE	:og der var bare overhovedet ikke noget at komme efter å der car
+*AN
+*BE	: sådan n
+
+*BE	:nå okay så tænkte jeg sådan okay er det mig der har opført mig
+	:socialt uanstændigt nu fordi  det kan jo godt være at det er
+	:sådan det er nogen der ikke vil sige hva de tjener å sådan noget
+	:at han så ikke vil sige hva hans lejlighed kostede
+*AN	:ja ja
+
+*BE	:å så prøvede jeg sådan å sige noget til en af de andre sådan et
+	:eller andet
+
+*BE	:men han sidder bare  m
+%com	:BE vrænger ansigt sammen med m
+
+*BE	:m sådan å
+*AN
+*BE	:okay
+*AN	:var der kun fyre
+
+*BE	:nej der var også nogle piger imellem
+
+*AN	:du er ikke så god til at komme ind på pigerne
+*BE	:                                       eHh hhe hhe
+*AN	:hh hhe hhe  hhe
+*BE	:   jo jo hhe
+*BE	:jo jo nej nej det fak- nej var x så svært at komme ind
+	:på piger sådan til sådan et selskab
+*AN	:ja
+*BE	: her når man kommer der
+*AN	:   ja  det er det
+
+*BE	:å
+*AN	:du gik efter de sikre
+
+*BE	:ja jeg tænkte sådan fyrene dem kan man da altid snakke med det
+	:kunne man ikke
+*AN	:          eh hhe heller ikke
+
+*BE	:ej å det værste var så f kom jeg faktisk i snak med en af pigerne
+*BE	: å hun var vildt sød å sådan noget
+*BE	:ej men hun læste til fysioterapeut å det var bare å så snakkede
+	:vi om studiet å sådan noget der
+
+*BE	:de der fyre der de var bare helt blanke altså  der var bare ikke
+	:noget at komme efter
+*AN	:               er de alle sammen sådan nogen karatetype
+	:eller
+*BE	:nej nej det er kun Mikkel der  går til karate
+
+*AN	:er det ham jeg har mødt eller hva
+
+*BE	:ja
+
+*AN	:ham der er venner med Søren  var Søren der ikke
+
+*BE	:nejnej
+
+	:nejnejnej
+*AN	:nej  nejnej
+*BE	: nej
+
+*BE	:nej men han kom også på Luux senere så
+
+*BE	:det  sødt x på L E bar hhhe
+	:hhe
+*AN	:ehh hha hha ej
+*AN	:ej det er dårligt stil
+*BE	:ja
+
+*AN	:ej men det var faktisk helt vildt sjovt ude til den øh  til
+	:den der fest bagefter
+
+*AN	:altså den revyfest der
+
+*BE	:det var helt hvad
+*AN	:altså det var faktisk helt vildt grineren i skulle bare være
+	:blevet
+*BE	:host  det er bare også helt vildt nederen over fordi at  x
+	:Ruså å Søren det var dem jeg havde aftalt at vi skulle i byen
+
+*BE	:å Ruså  å jeg havde begge to ret mange tømmermænd i forvejen
+	:fordi vi begge havde været i byen om fredagen
+
+*AN	:ja jeg var jo ligesom med
+*BE	:øhm
+*BE	:nåh ja
+*AN	:hm hm
+*BE	:og så øh
+
+*BE	:min l- Ruså han sad sådan å begyndte sådan å hænge lidt under
+	:den der revy å sådan åh
+
+*BE	:tænkte bare sådan han bæller bare ikke nu
+*BE	:det gør han bare ikke
+*BE	:å så sagde jamen det ville han heller ikke gøre å sådan noget
+
+*BE	:nåmen såh øh ville han bare men han ville have vi skulle
+	:tage hurtig lige når revyen var slut så skulle vi tage  hjem til
+	:mig så kunne vi sidde der å drikke å sådan noget han gad ikke den
+	:til den fest å sådan noget der
+*AN	:m
+*BE	:ah okay det var også fair nok
+
+*BE	:å så cykler vi e- x så GØR VI så får han sin v- for jeg ville
+	:gerne blive lidt længere
+*BE	:men så får han sin vilje å vi kører
+*AN	:    m
+
+*BE	:er stået der å han så siger så han ville lige hjem å skifte
+	:skjorte
+
+*BE	:inden at øh han k-så kom han bare hjem til mig ti minutter senere
+*BE	: fair nok
+
+*BE	:og så tager Søren å jeg så  hjem til mig å sidder
+
+*BE	:og så skriver Ruså selvfølgelig beskeden med
+*AN	:ja
+*BE	:eu jeg bliver hjemme jeg kan ikke
+*BE	:å så å SÅ ER HAN JO NEJ FORDI SÅ ER HAN JO TAGET HJEM
+*AN
+*BE	:så kan man ikke sådan sige kom herhen eller sådan noget
+*AN	: hnn
+*BE	:å så kan-
+*AN	:  nej
+*BE	:så er jeg ude h af stand til overtale ham eller stå du ved og
+	:ligesom  appellere til ham i min fysiske person ikke
+*AN	:      ja                     ja
+*AN	:og totalt nedgjorde ham
+*BE	:                         host
+
+*AN	:ide til
+*BE	:          ja
+
+*BE	:det er jo det
+
+*BE	:det er jo det
+
+*BE	:        å  så øh
+*AN	:aj men det var helt vildt sjovt selvom folk bare blev pisse
+	:pissestive allesammen
+
+*AN	:å nogen havde taget deres egne hynder med ned i kælderen å
+*BE	:   nåh                                                  nå hhe
+	:hhe hhe
+*AN	:hh
+*AN	:men jeres  studie jeres årgang drikker altså mere end min årgang
+	:tror jeg
+
+*BE	:så du så ikke revyen eller hva du sad da derop gjorde du ikke
+*AN	:                                         jo
+*BE	:ah okay
+
+*AN	:den var pissegod
+
+*BE	:ja der er måske også rimelige meget Thomas Metts i den
+
+*AN	:ja
+
+*AN	:eh han
+*BE	:       eh he   hhe
+*AN	:                    altså godt kender jeg ham jo ikke men han
+	:han var da sådan rimelig
+*BE	:                     nåh han er ok men
+*AN	: markant i den
+*AN	: det var hele tiden ham der skulle stå å snakke å sådan
+*BE	:nåmen det var fint nok han sådan var toastmaster eller hva hedder
+	:sådan noget hva hva hedder det sådan noget
+
+*AN	:ja
+*BE	:ja ja men  for eksempel den der  madsketch der
+
+*BE	:den var jo ikke sjov
+*AN	:                   ej jeg var ved at brække mig  ad
+*BE	:                                                       den
+	:var jo den var jo ikke sjov den var  den var jo ulækker
+*AN	:                        det var rigtigt Bec-
+*BE	: men den var jo ikke sjov
+*AN	:de hav- det var rigtig Becel de drak
+
+*BE	:ja ja men det var jo
+*AN	:                  rej det ikk rigtig ketchup rigtig øh
+*BE
+
+*AN	:ah men det var så klamt også bare da jeg så billedet var jeg
+*BE
+*AN	: ved at brække mig igen
+
+*BE	:ja
+*AN	:tænk at hun havde drukket  et blended flute med Becel
+*AN	:altså det var totalt klamt
+
+*AN	:aj men det var virkelig ulækkert
+
+*BE	:ja
+*AN	:hold kæft jeg synes det var godt de andre  altså
+	:sådan Anders Fogh  gjorde det var helt vildt godt
+
+*BE	:og hajet fra hva hedder det Jonatan
+*AN	:han var så god
+*BE	:            fuck hvor var han sjov
+*AN	:så god som den gamle prins
+*BE	:   ejej jej jej
+*BE	:ja
+*AN	: kæft hvo-
+
+*AN	:å å som Anders Samuelsen
+*BE
+*BE	:ja å den der edderkop ah hhe
+*AN
 

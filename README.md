@@ -31,8 +31,6 @@ I have used the Danish spaCy model `nlp = spacy.load("da_core_news_sm")` to perf
  *source* [Universal POS tags](https://universaldependencies.org/u/pos/)
 
 **Dependency Parsing** is a Natural Language Processing (NLP) texhnique that analyse the grammatical *structures* of the syntax, and how the words in a sentence depend on each other and form a structure. The dependy parsing both POS-tag, gives a dependy label and a head token.
-For the sentiment analysis I have implented [Sentida](https://github.com/Guscode/Sentida), a Danish sentiment analysis tool, which provide a positive score (<0.0 or a negative score >0.0)
-To convert the `.txt-file` to a dataframe the pandas command `pd.DataFrame()` was used.
 
   ROOT: Root of a sentence or a clause
   acl: Clausal modifier of noun
@@ -81,6 +79,11 @@ To convert the `.txt-file` to a dataframe the pandas command `pd.DataFrame()` wa
   xcomp: Open clausal complement
 *source* [spaCy Label Scheme](https://spacy.io/models/en#en_core_web_lg)
 
+Furthermore each lexeme, except for the root, in a sentence is assigned a 'head', meaniing the word that governs or controls the syntactic relationship with another word (the *parent* word). 
+
+For the sentiment analysis I have implented [Sentida](https://github.com/Guscode/Sentida), a Danish sentiment analysis tool, which provide a positive score (<0.0 or a negative score >0.0)
+To convert the `.txt-file` to a dataframe the pandas command `pd.DataFrame()` was used.
+
 ### 2.1 Data
 The data was retrieved from [Samtalebank](https://samtalebank.talkbank.org/access/Sam2.html) in the folder called "Sam2" which is a collection of transcriptions of Danish conversations. The transcripts are equipped with a set of symbols and special characters, that showcases notational symbols for pronunciational and temporal features of speech. Since no models are able to interpret these symbols (for now), the conventions for which symbols to use varies, and I am not a programmer these symbols have been removed by simply searching and replacing.
 The transcripts where, when downloaded, in a '.cha' format, which is the format used for the transcription software CLAN. The files can be converted either by running the command `CHAT2TEXT` inside the software, or simply be changing the file extension and opening the file in a text-editor. 
@@ -106,20 +109,32 @@ Example:
 |---|---|---|---|
 |5|BE|å så tænker jeg hva fanden jeg skal lave den her øh feature om|ADP ADV VERB PRON VERB NOUN PRON AUX VERB DET ADV NOUN NOUN ADP|
 
+The sentence 'å så tænker jeg hva fanden jeg skal lave den her øh feature om' can roughly be translated to 'and then I think what the fuck should I make this particular uhm feature about'
 The words are parsed mostly correct. The 'å' which in correct ortographic spelling would be an 'og' (*and*) is said to be an adposition though it is and adverb. This is understandable, since the model is trained on ortographic spelling.
 'hva' is furthermore an auditory spelling, which in ortographic manners would have been an 'hvad'(*what*) is a pronoun but is labeles as a verb. Here it can also be seen how the 'øh' is parsed as an adverb. 
 
 The results are, given the fact that this is not ortographic data, pretty okay, and the mdoel is able to grasp the big picture.
 ### 3.3 dependency parsing
-The dependency parsing does not yield any amaxing results. I ended up uploading it, to showcase when things go rather awry, and to showcase the limitations when working with semi-augmented conversational data. 
-The dependency parsing do POS tagging like seen in the previous section and also some Dependency labeling, but rather poorly.
+The dependency parsing csv-file is rather messy.
+The dependency parsing do POS tagging like seen in the previous section and also some dependency labeling and assigning each word a 'head'. The 'Head' column is not very succesful-
 Example
 
 |1|Speaker|Text|Token|POS|Dependency Label|Head|
 |---|---|---|---|---|---|---|
 |2|*AN|havde du egentlig øh nået a lave dine feature|"|AUX PRON ADV VERB VERB X VERB DET NOUN|aux nsubj advmod ROOT xcomp nmod:poss punct|det obl	øh øh øh øh øh feature a feature nået|
 
-
+The sentence "havde du egentlig øh nået a lave dine feature" can roughly be translated to: "did you actually uhm get to make yours feature"
+If we take a look at the dependency labeling, it's surprisingly okay. 
+'havde' is an auxiliary verb (modal verb) that modifies 'nået'.
+'du' is the nominal subject to 'havde'
+'egentlig' is and adverbial that modifies 'nået'
+'øh' is skipped, which is good.
+'nået' is the root verb.
+'a lave' is correctly labelled as a open clausal complement that introduces the subordinate clause, though misspelled and should've been 'at lave'
+'dine' is a noun modifier, and due to the misspelling that should've been 'your' (*your*) it is labelled as possesive.
+'feature' is labelled as punctuation, though it is a direct object. 
+all in all the dependency labelling was pretty good although with minor mistakes, and a bit hard to analyse given the way I outputted the whole sentence followed by the entire dependency labelling.
+The 'Head' column on the other hand makes no sense.
 
 ### 3.4 sentiment analysis
 An example from the ```Anne_og_Beate_sentiment.csv```
@@ -132,8 +147,6 @@ An example from the ```Anne_og_Beate_sentiment.csv```
 
 Since the sentence i line 377 and 379 contains the lexemes 'klamt' and 'brække', it would make senese that these are rated negatively, while the sentences in line 385 and 386 contains the lexemes 'godt' and 'vildt godt' these rated as positive. Furthermore I am impressed that the sentiment analysis rate line 386 higher than 385, where the adverb 'vildt' modifies that adjective 'godt', and (probably) by that rates the sentence as more postive than without the adverb.
 The results are far from perfect, but it works to an extend.
-
-For the 
 
 
 ## 4. Contact

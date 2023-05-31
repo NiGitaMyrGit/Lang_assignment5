@@ -10,10 +10,76 @@ freeCodeCamp.org: "Natural Language Processing with spaCy & Python - Course for 
 As your everyday linguist, I wanted to test out what the extension and limits of current models are, when trying having to a Danish conversation manuscript. 
 The transcript provided as a textfile 'anne_og_beate.txt' in the folder ```in```. T
 I have used the Danish spaCy model `nlp = spacy.load("da_core_news_sm")` to perform POS-tagging and dependency Parsing. 
-Part-Of-Speech (POS) tagging is a grammatical tagging of lexemes. 
-Dependency Parsing is a Natural Language Processing (NLP) texhnique that analyse the grammatical *structures* of the syntax, and how the words in a sentence depend on each other and form a structure. The dependy parsing both POS-tag, gives a dependy label and a head token.
+**Part-Of-Speech (POS)** tagging is a grammatical tagging of lexemes with the following categories:
+  ADJ: adjective
+  ADP: adposition
+  ADV: adverb
+  AUX: auxiliary
+  CCONJ: coordinating conjunction
+  DET: determiner
+  INTJ: interjection
+  NOUN: noun
+  NUM: numeral
+  PART: particle
+  PRON: pronoun
+  PROPN: proper noun
+  PUNCT: punctuation
+  SCONJ: subordinating conjunction
+  SYM: symbol
+  VERB: verb
+  X: other
+ *source* [Universal POS tags](https://universaldependencies.org/u/pos/)
+
+**Dependency Parsing** is a Natural Language Processing (NLP) texhnique that analyse the grammatical *structures* of the syntax, and how the words in a sentence depend on each other and form a structure. The dependy parsing both POS-tag, gives a dependy label and a head token.
 For the sentiment analysis I have implented [Sentida](https://github.com/Guscode/Sentida), a Danish sentiment analysis tool, which provide a positive score (<0.0 or a negative score >0.0)
 To convert the `.txt-file` to a dataframe the pandas command `pd.DataFrame()` was used.
+
+  ROOT: Root of a sentence or a clause
+  acl: Clausal modifier of noun
+  acomp: Adjectival complement
+  advcl: Adverbial clause modifier
+  advmod: Adverbial modifier
+  agent: Agent
+  amod: Adjectival modifier
+  appos: Appositional modifier
+  attr: Attribute
+  aux: Auxiliary
+  auxpass: Auxiliary (passive)
+  case: Case marker
+  cc: Coordinating conjunction
+  ccomp: Clausal complement
+  compound: Compound
+  conj: Conjunct
+  csubj: Clausal subject
+  csubjpass: Clausal subject (passive)
+  dative: Dative
+  dep: Unspecified dependency
+  det: Determiner
+  dobj: Direct object
+  expl: Expletive
+  intj: Interjection
+  mark: Marker
+  meta: Meta modifier
+  neg: Negation modifier
+  nmod: Nominal modifier
+  npmod: Noun phrase as adverbial modifier
+  nsubj: Nominal subject
+  nsubjpass: Nominal subject (passive)
+  nummod: Numeric modifier
+  oprd: Object predicate
+  parataxis: Parataxis
+  pcomp: Complement of preposition
+  pobj: Object of preposition
+  poss: Possession modifier
+  preconj: Preconjunct
+  predet: Predeterminer
+  prep: Prepositional modifier
+  prt: Particle
+  punct: Punctuation
+  quantmod: Modifier of quantifier
+  relcl: Relative clause modifier
+  xcomp: Open clausal complement
+*source* [spaCy Label Scheme](https://spacy.io/models/en#en_core_web_lg)
 
 ### 2.1 Data
 The data was retrieved from [Samtalebank](https://samtalebank.talkbank.org/access/Sam2.html) in the folder called "Sam2" which is a collection of transcriptions of Danish conversations. The transcripts are equipped with a set of symbols and special characters, that showcases notational symbols for pronunciational and temporal features of speech. Since no models are able to interpret these symbols (for now), the conventions for which symbols to use varies, and I am not a programmer these symbols have been removed by simply searching and replacing.
@@ -44,8 +110,15 @@ The words are parsed mostly correct. The 'å' which in correct ortographic spell
 'hva' is furthermore an auditory spelling, which in ortographic manners would have been an 'hvad'(*what*) is a pronoun but is labeles as a verb. Here it can also be seen how the 'øh' is parsed as an adverb. 
 
 The results are, given the fact that this is not ortographic data, pretty okay, and the mdoel is able to grasp the big picture.
-### 3.3 depndency parsing
-The dependency parsing does not yield any amaxing results. I ended up uploading it, to showcase when things go rather awry, and to whocase the limitations of conversational data. 
+### 3.3 dependency parsing
+The dependency parsing does not yield any amaxing results. I ended up uploading it, to showcase when things go rather awry, and to showcase the limitations when working with semi-augmented conversational data. 
+The dependency parsing do POS tagging like seen in the previous section and also some Dependency labeling, but rather poorly.
+Example
+
+|1|Speaker|Text|Token|POS|Dependency Label|Head|
+|---|---|---|---|---|---|---|
+|2|*AN|havde du egentlig øh nået a lave dine feature|"|AUX PRON ADV VERB VERB X VERB DET NOUN|aux nsubj advmod ROOT xcomp nmod:poss punct|det obl	øh øh øh øh øh feature a feature nået|
+
 
 
 ### 3.4 sentiment analysis

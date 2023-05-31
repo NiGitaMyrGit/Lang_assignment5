@@ -33,7 +33,7 @@ I have had problems in how I could make the output a CSV-file without overcompli
 A problem though, is the fact that the transcript is not always written not as real words, but in some contexts rely on the way they sound such as `å` being `og`. This mostly occurs with conjunctions, and more complicated words, if pronounced 'normally' follow the danish dictionary. If I wanted to imporve things, I probably should've made a stopwordlist.
 An example from 
 |Text|Sentiment|
-|___|___|
+|---|---|
 |AN :hold kæft jeg synes det var godt de andre altså|0.26111111111111146|
 |:sådan Anders Fogh gjorde det var helt vildt godt|	0.3500000000000003|
 
